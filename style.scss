@@ -1,0 +1,63 @@
+$bg: F0F9FF
+$txt: 151010
+$accent: 111118
+$accent_txt: EEEEEE
+
+body, .container {
+  background-color: $bg;
+}
+
+p {
+  font-family: "Palatino Linotype", "Palatino", "Times New Roman", serif;
+  color: $txt;
+  font-size: 14pt;
+  font-weight: 400;
+}
+
+.header {
+  background-color: $accent;
+}
+
+p.subtitle {
+  font-family: "Helvetica Light", "Helvetica", sans-serif;
+  color: $accent_txt;
+  font-size: 13pt;
+  font-weight: 100;
+  letter-spacing: 0.2em;
+  text-align: right;
+  background-color: $accent;
+  padding-bottom: 0.5em;
+}
+
+.quoteback {
+  background-color: desaturate(darken($bg, 5%),50%);
+}
+
+.content {
+  background-color: darken($bg, 1%);
+  text-align: justify;
+}
+
+tr.signoff {
+  background-color: $accent;
+}
+
+p.signoff {
+  color: $accent_txt;
+}
+
+.inside {
+  padding-left: 2em;
+  padding-top: 0.5em;
+}
+
+.wide {
+  padding-top: 0.5em;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 700;
+  background-color: desaturate(darken($bg, 10%),40%);
+  color: $accent;
+}

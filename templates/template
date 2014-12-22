@@ -1,0 +1,46 @@
+<container>
+  <header>
+    <img width='380px' height='72px' src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/logo_1024_alpha_invert.png' /> 
+  </header>
+  <subtitle>
+    bulletin #0 | 2014-12-21
+  </subtitle>
+  <quotebox>
+    <quote>
+      'Sit down, have a drink, welcome to paradise...'
+    </quote>
+    <quotee>
+      The Avalanches
+    </quotee>
+  </quotebox>
+  <row>
+    <img class='wide' src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/white.jpg' width='580' height='300' title='unrelated mountain pic'>
+  </row>
+  <row>
+    <p>Hey there YO! I hope you all are enjoying your winter breaks,
+     whether you're out in the woods, climbing mountains, sprawled out on the beach,
+     or like me, binging all 8 hours of This American Life's excellent podcast series
+     'Serial.' There's not much happening over break but I wanted to give you all a 
+     heads up regarding the state of the YO panlist (ie, the one you received this message from).</p>
+  </row>
+  <row>
+     <p>YO is moving its email panlisting service over
+      to EliApps. While this shouldn't really make a difference to anyone's
+      lives except for mine, I want to make sure this transition goes smoothly.
+      You'll receive an email shortly confirming your addition to the
+      new panlist: if you don't get one in a couple days, <b>let me know</b> and I'll make sure
+      to get you on. Once we're moved onto the new service, anyone will be able to sign up
+      to receive these glorious announcements through <a href='https://groups.google.com/a/elilists.yale.edu/d/forum/yo.general'>this page</a>, though of course
+      we will continue to happily add your friends to the list for you if they're too
+      lazy.</p>
+     <p>Relax and enjoy the now slowly lengthening days. We'll see you strong and refreshed in January!</p>
+  </row>
+  <footer>
+    <signoff>
+      Peace out,
+    </signoff>
+    <signature>
+       Sylvan 'Swashbuckling Squirrel' Zheng
+    </signature>
+  </footer>
+</container>
