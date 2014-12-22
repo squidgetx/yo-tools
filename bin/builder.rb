@@ -32,7 +32,6 @@ directives = {
   '/signoff' => "</p>",
   'signature' => "<p class='signoff'>&nbsp;&nbsp;&nbsp; - ",
   '/signature' => "</p>"
-
 }
 
 while (true)
@@ -41,8 +40,13 @@ while (true)
   line = line.strip
   if line[0,1] == '<' && line[line.length - 1, line.length] == '>' 
     tag = line[1,line.length - 2]
-    unless directives[tag].nil?
+    if directives[tag]
       puts directives[tag]
+    elsif tag == "subject"
+      File.open("subject","w") do |out|
+        out.puts $stdin.gets
+      end
+      $stdin.gets # flush following subject line
     else
       puts line
     end

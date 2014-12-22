@@ -21,7 +21,7 @@ end
 mail = Mail.new do
   from 'sylvan.zheng@yale.edu'
   to 'the_panlist@whatever.com'
-  subject 'test'
+  subject File.read('subject')
   text_part do
     body File.read('plaintext')
   end
