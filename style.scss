@@ -1,7 +1,7 @@
-$bg: F0F9FF
-$txt: 151010
-$accent: 111118
-$accent_txt: EEEEEE
+$bg: #F0F9FF;
+$txt: #151010;
+$accent: #111118;
+$accent_txt: #EEEEEE;
 
 body, .container {
   background-color: $bg;
@@ -10,7 +10,7 @@ body, .container {
 p {
   font-family: "Palatino Linotype", "Palatino", "Times New Roman", serif;
   color: $txt;
-  font-size: 14pt;
+  font-size: 13pt;
   font-weight: 400;
 }
 
