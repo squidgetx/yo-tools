@@ -2,9 +2,6 @@
 require 'net/smtp'
 require 'mail'
 
-puts "The email to the YO general panlist is going out in 5 minutes! You can cancel with CTRL-C if you have any doubts!"
-sleep 300
-
 
 options = { address: 'smtp.gmail.com',
             port: 587,
@@ -20,7 +17,7 @@ end
 
 mail = Mail.new do
   from 'sylvan.zheng@yale.edu'
-  to 'the_panlist@whatever.com'
+  to ARGV[0]
   subject File.read('subject')
   text_part do
     body File.read('plaintext')

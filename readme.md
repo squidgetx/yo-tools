@@ -16,7 +16,7 @@ This repo also packages a slightly modified version of Ink, an email templating 
 
 ####Basic Use
 * `./testmail.sh < <file>` is a one-shot script that, when properly configured, converts the templated file <file> to HTML and plaintext and then sends a multipart email to a specified account.
-* `./sendmail.sh < <file>` does the same thing, only it also runs testmail and sleeps for 5 minutes before proceeding to send the message to the (presumably intended) recipient
+* `./sendmail.sh <file> <recipient email` does the same thing, only it also runs testmail and sleeps for 5 minutes before proceeding to send the message to the (presumably intended) recipient
 
 ####HTML Extensions + Building The Email
 I define several HTML "tags" for use in order to make the delivery of content as smooth as possible. They abstract out annoying code bits and clutter but also severely limit the flexibility you have outside of these custom built "directives". Many of the names are self explanatory
