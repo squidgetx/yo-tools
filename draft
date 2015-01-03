@@ -1,10 +1,10 @@
 <subject>
 This Week in YO or something
 </subject>
-<container>
   <header>
     <img width='330px' height='62px' src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/logo_1024_alpha_invert.png' /> 
   </header>
+<container>
   <subtitle>
     bulletin #0 | 2014-12-21
   </subtitle>

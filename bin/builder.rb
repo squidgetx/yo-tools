@@ -32,7 +32,7 @@ directives = {
   '/signoff' => "</p>",
   'signature' => "<p class='signoff'>&nbsp;&nbsp;&nbsp; - ",
   '/signature' => "</p></td></tr></table></td>",
-  'animal' => "<td class='wrapper last'><table class='two columns'><tr><td class='text-pad'>",
+  'animal' => "<td class='wrapper last'><table class='two columns'><tr><td>",
   '/animal' => "</td></tr></table></td>"
 }
 
