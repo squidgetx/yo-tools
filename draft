@@ -47,7 +47,7 @@ This Week in YO or something
        Sylvan 'Swashbuckling Squirrel' Zheng
     </signature>
     <animal>
-      <img width=80 height=96 src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/squirrel1.png' />
+      <img width=80 height=80 src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/squirrel1.png' />
     </animal>
   </footer>
 </container>

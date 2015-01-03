@@ -7,8 +7,8 @@ directives = {
   'container' => "<table class='container'><tr><td>",
   '/container' => "</td></tr></table>",
 
-  'header' => "<table class='row'><tr class='header'><td class='wrapper last'><table class='seven columns'><tr><td class='text-pad-lg'>",
-  '/header' => "</td><td class='expander'></td></tr></table> </td> <td class='wrapper last'><table class='five columns'></table></td></tr></table>",
+  'header' => "<table class='row'><tr class='header'><td class='center' align='center'><center><table class='container'><tr class='header'><td class='wrapper'><table class='seven columns'><tr><td class='text-pad-lg'>",
+  '/header' => "</td><td class='expander'></td></tr></table> </td> <td class='wrapper last'><table class='five columns'></table></td></tr></table></center></td></tr></table>",
 
   'subtitle' => "<table class='row'><tr><td class='wrapper offset-by-five last'><table class='seven columns'><tr><td><p class='inside subtitle'>",
   '/subtitle' => "</p>" + rowclose,
@@ -22,7 +22,7 @@ directives = {
   'quotee' => "<p class='quoteback'>&nbsp;&nbsp;&nbsp;&nbsp;- ",
   '/quotee' => "</p>",
 
-  'row' => "<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td class='text-pad'>",
+  'row' => "<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td class=''>",
   '/row' => rowclose,
 
   'footer' => "<table class='row'><tr class='signoff'><td class='wrapper'><table class='ten columns'><tr><td class='text-pad'><br />",
