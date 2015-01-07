@@ -18,6 +18,7 @@ end
 mail = Mail.new do
   from 'sylvan.zheng@yale.edu'
   to ARGV[0]
+  bcc ARGV[1]
   subject File.read('subject')
   text_part do
     body File.read('plaintext')
