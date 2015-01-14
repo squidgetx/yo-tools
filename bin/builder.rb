@@ -2,6 +2,7 @@
 # Parse custom HTML and directives
 
 rowclose = "</td> <td class='expander'></td></tr></table></td></tr></table>"
+row = "<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td class=''>"
 
 directives = {
   'container' => "<table class='container'><tr><td>",
@@ -16,17 +17,24 @@ directives = {
   'quotebox' => "<table class='row'><tr><td class='wrapper last'><table class='nine columns'><tr class = 'quoteback'><td class='text-pad'><br />",
   '/quotebox' => rowclose,
 
-  'quote' => "<p class='quoteback'><i>",
-  '/quote' => "</i></p>",
+  'quote' => "<p class='quoteback'><i>\"",
+  '/quote' => "\"</i></p>",
 
   'quotee' => "<p class='quoteback'>&nbsp;&nbsp;&nbsp;&nbsp;- ",
   '/quotee' => "</p>",
 
-  'row' => "<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td class=''>",
+  'row' => row,
   '/row' => rowclose,
 
   'footer' => "<table class='row'><tr class='signoff'><td class='wrapper'><table class='ten columns'><tr><td class='text-pad'><br />",
   '/footer' => rowclose,
+
+  'trip-title' => row + '<h3>',
+  '/trip-title' => '</h3>' + rowclose,
+  'trip-desc' => "<table class='row'><tr><td class='wrapper'><table class='eight columns'><tr><td class=''><p>",
+  '/trip-desc' => "</p></td></tr></table></td>",
+  'trip-pic' => "<td class='wrapper last'><table class='four columns'><tr><td>",
+  '/trip-pic' => "</td></tr></table></td></tr></table>",
 
   'signoff' => "<p class='signoff'>",
   '/signoff' => "</p>",
