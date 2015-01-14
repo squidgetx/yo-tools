@@ -14,6 +14,9 @@ directives = {
   'subtitle' => "<table class='row'><tr><td class='wrapper offset-by-five last'><table class='seven columns'><tr><td><p class='inside subtitle'>",
   '/subtitle' => "</p>" + rowclose,
 
+  'interlude' => "<table class='row'><tr><td class='wrapper offset-by-five last'><table class='seven columns'><tr><td><p class='inside interlude'>",
+  '/interlude' => "</p>" + rowclose,
+
   'quotebox' => "<table class='row'><tr><td class='wrapper last'><table class='nine columns'><tr class = 'quoteback'><td class='text-pad'><br />",
   '/quotebox' => rowclose,
 
@@ -23,14 +26,19 @@ directives = {
   'quotee' => "<p class='quoteback'>&nbsp;&nbsp;&nbsp;&nbsp;- ",
   '/quotee' => "</p>",
 
+  'row-accent' => "<table class='row'><tr class='accent'><td class='wrapper last'><table class='twelve columns'><tr><td class=''>",
+  'row-accent2' => "<table class='row'><tr class='accent2'><td class='wrapper last'><table class='twelve columns'><tr><td class=''>",
+
   'row' => row,
   '/row' => rowclose,
 
   'footer' => "<table class='row'><tr class='signoff'><td class='wrapper'><table class='ten columns'><tr><td class='text-pad'><br />",
   '/footer' => rowclose,
 
-  'trip-title' => row + '<h3>',
-  '/trip-title' => '</h3>' + rowclose,
+  'trip-title' => "<table class='row accent-mid'><tr><td class='wrapper'><table class='nine columns'><tr><td><h3>",
+  '/trip-title' => '</h3></td></tr></table></td>',
+  'trip-date' => "<td class='wrapper last'><table class='three columns'><tr><td><p class='date'>",
+  '/trip-date' => '</p></td></tr></table></td></tr></table>',
   'trip-desc' => "<table class='row'><tr><td class='wrapper'><table class='eight columns'><tr><td class=''><p>",
   '/trip-desc' => "</p></td></tr></table></td>",
   'trip-pic' => "<td class='wrapper last'><table class='four columns'><tr><td>",
