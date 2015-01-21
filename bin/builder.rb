@@ -2,19 +2,19 @@
 # Parse custom HTML and directives
 
 rowclose = "</td> <td class='expander'></td></tr></table></td></tr></table>"
-row = "<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td class=''>"
+row = "<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>"
 
 directives = {
   'container' => "<table class='container'><tr><td>",
   '/container' => "</td></tr></table>",
 
-  'header' => "<table class='row'><tr class='header'><td class='center' align='center'><center><table class='container'><tr class='header'><td class='wrapper'><table class='seven columns'><tr><td class='text-pad-lg'>",
-  '/header' => "</td><td class='expander'></td></tr></table> </td> <td class='wrapper last'><table class='five columns'></table></td></tr></table></center></td></tr></table>",
+  'header /' => "<table class='row'><tr class='header'><td class='wrapper'><table class='eight columns'><tr><td><img width='380px' height='64px' src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/logo_1024_alpha_invert.png' /></td><td class='expander'></td></tr></table> </td> <td class='wrapper last'><table class='four columns'></table></td></tr></table>",
+  'header-blk /' => "<table class='row'><tr class='header'><td class='wrapper'><table class='eight columns'><tr><td><img width='380px' height='64px' src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/logo_1024_alpha.png' /></td><td class='expander'></td></tr></table> </td> <td class='wrapper last'><table class='four columns'></table></td></tr></table>",
 
   'subtitle' => "<table class='row'><tr><td class='wrapper offset-by-five last'><table class='seven columns'><tr><td><p class='inside subtitle'>",
   '/subtitle' => "</p>" + rowclose,
 
-  'interlude' => "<table class='row'><tr><td class='wrapper offset-by-five last'><table class='seven columns'><tr><td><p class='inside interlude'>",
+  'interlude' => "<table class='row'><tr><td class='wrapper offset-by-four last'><table class='eight columns'><tr><td><p class='inside interlude'>",
   '/interlude' => "</p>" + rowclose,
 
   'quotebox' => "<table class='row'><tr><td class='wrapper last'><table class='nine columns'><tr class = 'quoteback'><td class='text-pad'><br />",
@@ -34,22 +34,87 @@ directives = {
 
   'footer' => "<table class='row'><tr class='signoff'><td class='wrapper'><table class='ten columns'><tr><td class='text-pad'><br />",
   '/footer' => rowclose,
+  'trip-title-lg' => "<table class='row'>
+                    <tr class='trip-head'>
+                      <td class='wrapper'>
+                        <table class='eight columns trip2'>
+                          <tr class='ttitle'>
+                            <td>
+                              <p class='ttitle-lg'>",
+  'trip-title' => "<table class='row'>
+                    <tr class='trip-head'>
+                      <td class='wrapper'>
+                        <table class='eight columns trip2'>
+                          <tr class='ttitle'>
+                            <td>
+                              <p class='ttitle'>",
+  '/trip-title' =>           "</p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>",
+  'signup' =>        "<td class='wrapper'>
+                        <table class='three columns'>
+                          <tr>
+                            <td class='nobottom'>
+                              <table class='button'>
+                                <tr>
+                                  <td>
+                                    <a href='",
+  'signup-lg' =>      "<td class='wrapper'>
+                        <table class='three columns'>
+                          <tr>
+                            <td class='nobottom'>
+                              <br />
+                              <table class='button'>
+                                <tr>
+                                  <td>
+                                    <a href='",
 
-  'trip-title' => "<table class='row accent-mid'><tr><td class='wrapper'><table class='nine columns'><tr><td><h3>",
-  '/trip-title' => '</h3></td></tr></table></td>',
-  'trip-date' => "<td class='wrapper last'><table class='three columns'><tr><td><p class='date'>",
-  '/trip-date' => '</p></td></tr></table></td></tr></table>',
-  'trip-desc' => "<table class='row'><tr><td class='wrapper'><table class='eight columns'><tr><td class=''><p>",
-  '/trip-desc' => "</p></td></tr></table></td>",
-  'trip-pic' => "<td class='wrapper last'><table class='four columns'><tr><td>",
-  '/trip-pic' => "</td></tr></table></td></tr></table>",
+  '/signup' =>                        "'><span class='btn'>Sign Up</span>
+                                    </a>
+                                  </td>
+                                </tr>
+                              </table>         
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td class='wrapper last'>
+                        <table class='one column'>
+                        </table>
+                        </td>
+                    </tr>
+                  </table>",
+  'trip-info' => "<table class='row'>
+                    <tr>
+                      <td class='wrapper offset-by-five last'>
+                        <table class='seven columns'>
+                          <tr>
+                            <td>
+                              <p class='inside tdate'>",
+  'leader-email' =>             "<a class='email' href='mailto:",
+  'leader-name' =>                "'>",
+  '/leader-name' =>             "</a>",
+  'tprice' =>                   "| ",
+  'tdate' =>                    "| ",
+  '/trip-info' =>            "</p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>",
 
   'signoff' => "<p class='signoff'>",
   '/signoff' => "</p>",
   'signature' => "<p class='signoff'>&nbsp;&nbsp;&nbsp; - ",
   '/signature' => "</p></td></tr></table></td>",
   'animal' => "<td class='wrapper last'><table class='two columns'><tr><td>",
-  '/animal' => "</td></tr></table></td>"
+  '/animal' => "</td></tr></table></td>",
+  'trip' => '',
+  '/trip' => '',
+  '/leader-email' => '',
 }
 
 while (true)

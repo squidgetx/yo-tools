@@ -1,22 +1,102 @@
-$bg: #F0F9FF;
+$bg: #D9ECFF;
 $txt: #151010;
-$accent: #111118;
+$accent: #04273F;
 $accent_txt: #EEEEEE;
+$subaccent: desaturate($accent, 20%);
 
-body, .container {
+.container {
   background-color: $bg;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  padding-left: 10px;
+  padding-bottom: 0px;
+  margin: 0px;
+  font-family: "Palatino Linotype", "Palatino", "Times New Roman", serif;
+}
+
+a.email {
+  color: #FFDDDD;
+  text-decoration: underline;
+}
+
+tr.trip-head {
+  background-color: $subaccent;
+}
+
+td.signup {
+  background-color: white;
+}
+
+td.btn {
+  text-align: center;
+}
+
+td.nobottom {
+  padding-bottom: 0 !important;
+}
+
+.btn {
+  font-family: "Palatino Linotype", "Palatino", "Times New Roman", serif !important;
+}
+
+p.ttitle {
+  font-size: 2em;
+  color: $accent_txt;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  margin-bottom: 0;
+}
+
+p.ttitle-lg {
+  font-size: 2em;
+  text-align: center;
+  color: $accent_txt;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  margin-bottom: 0;
+  line-height: 1.1em;
+}
+
+p.tdate {
+  text-align: center;
+}
+
+p.apply {
+  font-family: "Palatino Linotype", "Palatino", "Times New Roman", serif;
+  color: $accent_txt;
+  padding: .5em !important;
+  font-weight: 500;
+  text-align: center;
+}
+
+img.trip {
+  padding: 1em;
 }
 
 p {
   font-family: "Palatino Linotype", "Palatino", "Times New Roman", serif;
   color: $txt;
-  line-spacing: 1.1em;
   padding-left: 1em;
   padding-right: 1em;
 }
 
+p.date {
+  text-align: right;
+  font-weight: 700;
+  padding-top:  1em;
+  padding-right: 1em;
+  padding-bottom: 0em;
+  margin: 0;
+}
+
 .header {
   background-color: $accent;
+}
+
+p.caption {
+  text-align: right;
+  font-size: 12pt;
 }
 
 p.subtitle {
@@ -26,14 +106,33 @@ p.subtitle {
   font-weight: 100;
   letter-spacing: 0.2em;
   text-align: right;
+  background-color: $subaccent;
+  padding-bottom: 0.5em;
+}
+
+p.tdate {
+  text-align: right;
+  padding-bottom: 0.5em;
+  color: $accent_txt;
   background-color: $accent;
+  font-size: 13pt;
+}
+
+
+.interlude {
+  background-color: desaturate(darken($bg, 10%),50%);
+}
+
+p.interlude {
+  font-weight: 100;
+  text-align: right;
   padding-bottom: 0.5em;
 }
 
 .quoteback {
   font-size: 13pt;
   font-weight: 400;
-  background-color: desaturate(darken($bg, 5%),50%);
+  background-color: darken($bg, 5%);
 }
 
 .content {
@@ -59,9 +158,3 @@ p.signoff {
   padding-top: 0.5em;
 }
 
-a {
-  text-decoration: none;
-  font-weight: 700;
-  background-color: desaturate(darken($bg, 10%),40%);
-  color: $accent;
-}
