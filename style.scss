@@ -1,18 +1,13 @@
-$bg: #D9ECFF;
+$bg: #E9FCFF;
 $txt: #151010;
 $accent: #04273F;
 $accent_txt: #EEEEEE;
 $subaccent: desaturate($accent, 20%);
 
 .container {
-  background-color: black;
+  background-color: $bg;
 }
 
-a {
-  color: white;
-  font-size: 1.5em;
-  font-family: "Palatino Linotype", "Palatino", "Times New Roman", serif;
-}
 
 h1,h2,h3,h4,h5,h6 {
   padding-left: 10px;
