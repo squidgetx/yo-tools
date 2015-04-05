@@ -53,6 +53,12 @@ directives = {
                           </tr>
                         </table>
                       </td>",
+  'signup-blank /' => "<td class='wrapper'>
+                        <table class='three columns'>
+                          <tr><td></td></tr>
+                        </table>
+                       </td>
+                      </tr></table>",
   'signup' =>        "<td class='wrapper'>
                         <table class='three columns'>
                           <tr>
@@ -86,6 +92,14 @@ directives = {
                         </td>
                     </tr>
                   </table>",
+  'trip-info-sm' => "<table class='row'>
+                    <tr>
+                      <td class='wrapper offset-by-seven last'>
+                        <table class='five columns'>
+                          <tr>
+                            <td>
+                              <p class='inside tdate'>",
+
   'trip-info' => "<table class='row'>
                     <tr>
                       <td class='wrapper offset-by-five last'>
@@ -93,6 +107,29 @@ directives = {
                           <tr>
                             <td>
                               <p class='inside tdate'>",
+  'trip-info-lg' => "<table class='row'>
+                    <tr>
+                      <td class='wrapper offset-by-three last'>
+                        <table class='nine columns'>
+                          <tr>
+                            <td>
+                              <p class='inside tdate'>",
+  'trip-info-xlg' => "<table class='row'>
+                    <tr>
+                      <td class='wrapper offset-by-one last'>
+                        <table class='eleven columns'>
+                          <tr>
+                            <td>
+                              <p class='inside tdate'>",
+  'trip-info-xxlg' => "<table class='row'>
+                    <tr>
+                      <td class='wrapper last'>
+                        <table class='twelve columns'>
+                          <tr>
+                            <td>
+                              <p class='inside tdate'>",
+
+
   'leader-email' =>             "<a class='email' href='mailto:",
   'leader-name' =>                "'>",
   '/leader-name' =>             "</a>",

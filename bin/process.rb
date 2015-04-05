@@ -18,7 +18,7 @@ File.open("html", "w") do |out|
   out.puts premailer.to_inline_css
 end
 File.open("plaintext", "w") do |out|
-  out.puts premailer.to_plain_text
+  #out.puts premailer.to_plain_text
 end
 
 
