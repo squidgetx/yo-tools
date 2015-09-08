@@ -1,0 +1,63 @@
+<%= @data['subject'] %>
+<header />
+<container>
+  <subtitle>
+  bulletin #<%= @data['n'] %> | <%= Date.new %>
+  </subtitle>
+  <quotebox>
+    <quote>
+      <%= @data['quote'] %>
+    </quote>
+    <quotee>
+      <%= @data['author'] %>
+    </quotee>
+  </quotebox>
+  <interlude>
+    <%= @data['interlude'] %>
+  </interlude>
+  <row>
+  <img class='wide' src='<%= @data['cover']['image_url'] %>' width='<%= @data['cover']['x'] %>' height='<%= @data['cover']['y'] %>' title='<%= @data['cover']['subtitle'] %>'>
+  </row>
+
+  <% @data['trips'].each do |trip| %>
+    <trip>
+      <% large_title = trip['title'].length > 30 %>
+      <%= large_title ? "trip-title-lg" : "trip-title" %>
+        <%= trip['title']  %>
+      </trip-title>
+      <%= large_title ? "signup-lg" : "signup" %>
+        <%= trip['signup_link'] %>
+      </signup>
+      <trip-info-xxlg>
+        <% trip['leaders'].each do |leader| %>
+          <leader-email>
+            <%= leader['email'] %>
+          </leader-email>
+          <leader-name>
+            <%= leader['name'] %>
+          </leader-name>
+          |
+        <% end %>
+        <tdate>
+          <%= trip['date'] %>
+        </tdate>
+      </trip-info>
+      <row>
+      <img class='trip' height='200' align='left' src="<%= trip['image_url'] %>" />
+        <br />
+          <%= trip['blurb'] %>
+      </row>
+    </trip>
+  <% end %>
+  <footer>
+    <signoff>
+      Peace out,
+    </signoff>
+    <signature>
+       Sylvan 'take take TAKE TAKE!!! Tortoise' Zheng
+    </signature>
+    <animal>
+      <img width=80 height=80 src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/turtle.png' />
+    </animal>
+  </footer>
+</container>
