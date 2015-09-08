@@ -4,7 +4,7 @@
 <header />
 <container>
   <subtitle>
-  bulletin #<%= @data['n'] %> | <%= Date.new %>
+  bulletin #<%= @data['n'] %> | <%= require 'date' ; Date.today %>
   </subtitle>
   <quotebox>
     <quote>
