@@ -24,7 +24,7 @@
   
   <% @data['trips'].each do |trip| %>
     <trip>
-      <% large_title = trip['title'].length > 20 %>
+      <% large_title = trip['title'].length > 23 %>
       <%= large_title ? "<trip-title-lg>" : "<trip-title>" %>
         <%= trip['title']  %>
       </trip-title>

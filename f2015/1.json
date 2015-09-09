@@ -23,6 +23,20 @@
       "image_url": "http://i.imgur.com/ikqll16.jpg"
     },
     {
+      "title": "Friday Film Screening",
+      "signup_link": "",
+      "leaders": [
+        {
+          "name": "Sarah Gross",
+          "email": "sarah.gross@yale.edu"
+        }
+      ],
+      "date": "09-11",
+      "blurb": "Come watch a cool movie with cool people! On Friday, we'll be screening the film <b>180 Degrees South</b>, a movie about adventurer Jeff Johnson retracing Patagonia founder Yvon Chouinard and Northface Founder Doug Tompkins' 1968 trip to Chile. It is YO coordinator emeritus Rafi Bildner's favorite outdoor film of all time. Join us at <b>8 p.m.</b> at the <b>YO house (229 Dwight St.)</b>. Weather permitting, we'll show it in the backyard and enjoy some s'mores around a fire pit after the movie is over.",
+      "image_url": "http://i.imgur.com/62q8rlN.jpg"
+    },
+
+    {
       "title": "Bike to Sleeping Giant State Park",
       "signup_link": "http://goo.gl/forms/bzNezV8Il9",
       "leaders": [
