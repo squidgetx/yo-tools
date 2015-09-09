@@ -1,0 +1,29 @@
+<trip>
+  <% large_title = trip['title'].length > 30 %>
+  <%= large_title ? "trip-title-lg" : "trip-title" %>
+    <%= trip['title']  %>
+  </trip-title>
+  <%= large_title ? "signup-lg" : "signup" %>
+    <%= trip['signup_link'] %>
+  </signup>
+  <trip-info-xxlg>
+    <% trip['leaders'].each do |leader| %>
+      <leader-email>
+        <%= leader['email'] %>
+      </leader-email>
+      <leader-name>
+        <%= leader['name'] %>
+      </leader-name>
+      |
+    <% end %>
+    <tdate>
+      <%= trip['date'] %>
+    </tdate>
+  </trip-info>
+  <row>
+  <img class='trip' height='200' align='left' src="<%= trip['image_url'] %>" />
+    <br />
+      <%= trip['blurb'] %>
+  </row>
+</trip>
+

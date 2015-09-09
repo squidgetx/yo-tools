@@ -1,0 +1,75 @@
+<subject>
+<%= @data['subject'] %>
+</subject>
+<container>
+  <header />
+  <subtitle>
+  bulletin #<%= @data['n'] %> | <%= require 'date' ; Date.today %>
+  </subtitle>
+<row>
+  <img class='wide' src='<%= @data['cover']['image_url'] %>' width='<%= @data['cover']['x'] %>' height='<%= @data['cover']['y'] %>' title='<%= @data['cover']['subtitle'] %>'>
+  </row>
+
+  <quotebox>
+    <quote>
+      <%= @data['quote'] %>
+    </quote>
+    <quotee>
+      <%= @data['author'] %>
+    </quotee>
+  </quotebox>
+  <interlude>
+    <%= @data['interlude'] %>
+  </interlude>
+  
+  <% @data['trips'].each do |trip| %>
+    <trip>
+      <% large_title = trip['title'].length > 23 %>
+      <%= large_title ? "<trip-title-lg>" : "<trip-title>" %>
+        <%= trip['title']  %>
+      </trip-title>
+      <%= large_title ? "<signup-lg>" : "<signup>" %>
+        <%= trip['signup_link'] %>
+      </signup>
+      <%= trip['info_tag'] %>
+        <% trip['leaders'].each_with_index do |leader, index| %>
+          <leader-email>
+            <%= leader['email'] %>
+          </leader-email>
+          <leader-name>
+            <%= leader['name'] %>
+          </leader-name>
+          <% if index == trip['leaders'].size - 2 %>
+            and
+          <% elsif index < trip['leaders'].size - 2 %>
+            ,
+          <% end %>
+        <% end %>
+        <tdate>
+          <%= trip['date'] %>
+        </tdate>
+      </trip-info>
+      <row>
+      <% unless trip['image_url'].nil? %>
+        <img class='trip' height='<%= trip['image_h'] %>' align='left' src="<%= trip['image_url'] %>" />
+      <% end %>
+      <br />
+
+      <p>
+        <%= trip['blurb'] %>
+      </p>
+      </row>
+    </trip>
+  <% end %>
+  <footer>
+    <signoff>
+      <%= @data['signoff'] %>
+    </signoff>
+    <signature>
+    Sylvan '<%= @data['nickname'] %> Tortoise' Zheng
+    </signature>
+    <animal>
+      <img width=80 height=80 src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/turtle.png' />
+    </animal>
+  </footer>
+</container>
