@@ -10,6 +10,7 @@ directives = {
 
   'header /' => "<table class='row'><tr class='header'><td class='wrapper'><table class='eight columns'><tr><td><img width='380px' height='64px' src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/logo_1024_alpha_invert.png' /></td><td class='expander'></td></tr></table> </td> <td class='wrapper last'><table class='four columns'></table></td></tr></table>",
   'header-blk /' => "<table class='row'><tr class='header'><td class='wrapper'><table class='eight columns'><tr><td><img width='380px' height='64px' src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/logo_1024_alpha.png' /></td><td class='expander'></td></tr></table> </td> <td class='wrapper last'><table class='four columns'></table></td></tr></table>",
+  'header-clr /' => "<table class='row'><tr class='header'><td class='wrapper'><table class='eight columns'><tr><td><img width='380px' height='64px' src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/logo_1024_alpha_invert_2.png' /></td><td class='expander'></td></tr></table> </td> <td class='wrapper last'><table class='four columns'></table></td></tr></table>",
 
   'subtitle' => "<table class='row'><tr><td class='wrapper offset-by-five last'><table class='seven columns'><tr><td><p class='inside subtitle'>",
   '/subtitle' => "</p>" + rowclose,
