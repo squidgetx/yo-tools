@@ -1,6 +1,6 @@
-$bg: #E9FCFF;
+$bg: #FFFAF2;
 $txt: #151010;
-$accent: #04273F;
+$accent: #440000;
 $accent_txt: #EEEEEE;
 $subaccent: desaturate($accent, 20%);
 
@@ -101,11 +101,11 @@ p.caption {
 }
 
 p.subtitle {
-  font-family: "Helvetica Light", "Helvetica", sans-serif;
+  // font-family: "Helvetica Light", "Helvetica", sans-serif;
   color: $accent_txt;
   font-size: 13pt;
-  font-weight: 100;
-  letter-spacing: 0.2em;
+  //font-weight: 100;
+  //letter-spacing: 0.2em;
   text-align: right;
   background-color: $subaccent;
   padding-bottom: 0.5em;
