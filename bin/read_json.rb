@@ -9,9 +9,11 @@ require 'pry'
 require 'erb'
 require 'fastimage'
 
+
 string = $stdin.read
 @data = JSON.parse(string)
 template = File.open("templates/template.html.erb").read
+
 
 
 
@@ -21,9 +23,9 @@ template = File.open("templates/template.html.erb").read
   info_string = t['leaders'].collect{ |l| l['name'] }.join(" ") + t['date'] + t['price']
   if info_string.length > 50
     t['info_tag'] = '<trip-info-xxlg>'
-  elsif info_string.length > 40
-    t['info_tag'] = '<trip-info-xlg>'
   elsif info_string.length > 30
+    t['info_tag'] = '<trip-info-xlg>'
+  elsif info_string.length > 27
     t['info_tag'] = '<trip-info-lg>'
   elsif info_string.length > 20
     t['info_tag'] = '<trip-info>'

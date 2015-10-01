@@ -1,0 +1,77 @@
+{
+  "n": 3,
+  "subject": "This Week in YO!",
+  "interlude": "<p>Have friends asking to get on the panlist? Despair no more, we now have a <a href='http://mailman.yale.edu/mailman/listinfo/yaleoutdoors'>public link</a> people can use to sign up to receive these wonderful emails!</p>",
+  "quote": "Lie down on the couch, what does that mean? You're a nut, you're as crazy as a coconut!",
+  "author": "The Avalanches",
+  "cover": {
+    "image_url": "https://i.imgur.com/b94Yxgp.jpg",
+    "subtitle": "Idaho"
+  },
+  "trips": [
+    {
+      "title": "Sunrise Hike",
+      "signup_link": "http://goo.gl/forms/9P3jjt44fT",
+      "leaders": [
+        {
+          "name": "Sylvan Zheng",
+          "email": "sylvan.zheng@yale.edu"
+        }
+      ],
+      "date": "09-25",
+      "blurb": "Take some time to head once again to West Rock State Park, a mere 15 minute drive or bike from campus on Friday morning for another sunrise hike. As usual, the plan is to leave from Phelps Gate at 05:45, and return by 8 or so. Come experience the magic of a New Haven summer sunrise!",
+      "image_url": "http://i.imgur.com/g7P2q0v.jpg"
+    },
+    {
+      "title": "Friday Movie Night",
+      "signup_link": "http://goo.gl/forms/f0BypCtyzF",
+      "leaders": [
+        {
+          "name": "Sarah Gross",
+          "email": "sarah.gross@yale.edu"
+        }
+      ],
+      "date": "09-25",
+      "blurb": "Join us at the YO House (229 Dwight St) at <b>8pm</b> for our second outdoor movie screening, this time of Reel Rock 10, a 90-minute compilation of several riveting climbing films showcasing everything from cutting-edge bouldering to alpine speed climbing.  Even if you don't climb, you will certainly enjoy the diversity of adventure found within the sport.  There'll be cider and snacks, too!",
+      "image_url": "http://i.imgur.com/FCGgiRC.png"
+    },
+    {
+      "title": "Supermoon Eclipse Watch",
+      "signup_link": "http://goo.gl/forms/3AyoOxy20q",
+      "leaders": [
+        {
+          "name": "Eugene Lim",
+          "email": "eugene.lim@yale.edu"
+        },
+        { 
+          "name": "Liz Karron",
+          "email": "elizabeth.karron@yale.edu"
+        }
+      ],
+      "date": "09-27",
+      "blurb": "The biggest supermoon of the year is happening this Sunday, and there's going to be a lunar eclipse! Join us for this once-in-33-years opportunity to witness the event from a special vantage point. We will leave campus at 8:30 pm and be back by midnight. Choose to join us by bike or running. It'll be an incredible experience and we'll have a picnic at our viewing location - including mooncakes! Sign up quickly as spaces are limited!",
+      "image_url": "http://i.imgur.com/wdk7yOt.png"
+    },
+    {
+      "title": "Lake Wintergreen Bike",
+      "signup_link": "http://goo.gl/forms/skb4rKk30o",
+      "leaders": [
+        {
+          "name": "Sylvan Zheng",
+          "email": "sylvan.zheng@yale.edu"
+        },
+        {
+          "name": "Julia Ganley",
+          "email": "julia.ganley@yale.edu"
+        }
+      ],
+      "date": "10-04",
+      "price": "$3", 
+      "blurb": "Join us for a lazy Sunday afternoon as we bike up to West Rock to enjoy the fall foliage surrounding Lake Wintergreen, one of my personal favorite spots in the area. We'll provide cider, apples, and cheese for a relaxed picnic on the shore. We'll meet at 1pm by the Women's Table and expect to return by 4pm. Members will have to pay about $3 towards the cheese and other snacks.",
+      "image_url": "http://i.imgur.com/jOEJfCE.png"
+    }
+
+  ],
+  "signoff": "Peace",
+  "nickname": "Tingly"
+}

@@ -1,6 +1,6 @@
 $bg: #FFFAF2;
 $txt: #151010;
-$accent: #440000;
+$accent: #340000;
 $accent_txt: #EEEEEE;
 $subaccent: desaturate($accent, 20%);
 
@@ -62,13 +62,17 @@ p.ttitle-lg {
 p.tdate {
   text-align: center;
 }
+li {
 
-p.apply {
   font-family: "Palatino Linotype", "Palatino", "Times New Roman", serif;
+}
+.apply {
+  font-family: "Palatino Linotype", "Palatino", "Times New Roman", serif;
+  padding: 1em !important;
   color: $accent_txt;
-  padding: .5em !important;
-  font-weight: 500;
   text-align: center;
+  font-weight: 800;
+  font-size: 18pt;
 }
 
 img.trip {

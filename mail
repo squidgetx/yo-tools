@@ -716,7 +716,7 @@ a.email {
   text-decoration: underline; }
 
 tr.trip-head {
-  background-color: #3d0707; }
+  background-color: #2f0505; }
 
 td.signup {
   background-color: white; }
@@ -749,12 +749,16 @@ p.ttitle-lg {
 p.tdate {
   text-align: center; }
 
-p.apply {
+li {
+  font-family: "Palatino Linotype", "Palatino", "Times New Roman", serif; }
+
+.apply {
   font-family: "Palatino Linotype", "Palatino", "Times New Roman", serif;
+  padding: 1em !important;
   color: #EEEEEE;
-  padding: .5em !important;
-  font-weight: 500;
-  text-align: center; }
+  text-align: center;
+  font-weight: 800;
+  font-size: 18pt; }
 
 img.trip {
   padding: 1em; }
@@ -774,7 +778,7 @@ p.date {
   margin: 0; }
 
 .header {
-  background-color: #440000; }
+  background-color: #340000; }
 
 p.caption {
   text-align: right;
@@ -784,14 +788,14 @@ p.subtitle {
   color: #EEEEEE;
   font-size: 13pt;
   text-align: right;
-  background-color: #3d0707;
+  background-color: #2f0505;
   padding-bottom: 0.5em; }
 
 p.tdate {
   text-align: right;
   padding-bottom: 0.5em;
   color: #EEEEEE;
-  background-color: #440000;
+  background-color: #340000;
   font-size: 13pt; }
 
 .interlude {
@@ -812,7 +816,7 @@ p.interlude {
   text-align: justify; }
 
 tr.signoff {
-  background-color: #440000; }
+  background-color: #340000; }
 
 p.signoff {
   color: #EEEEEE; }
@@ -829,22 +833,22 @@ p.signoff {
 </style></head><body><table class='body'><tr><td class='center' align='center' valign='top'><center><table class='container'><tr><td>
 <table class='row'><tr class='header'><td class='wrapper'><table class='eight columns'><tr><td><img width='380px' height='64px' src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/logo_1024_alpha_invert.png' /></td><td class='expander'></td></tr></table> </td> <td class='wrapper last'><table class='four columns'></table></td></tr></table>
 <table class='row'><tr><td class='wrapper offset-by-seven last'><table class='five columns'><tr><td><p class='inside subtitle'>
-bulletin #1 | 2015-09-10
+bulletin #4 | 2015-09-30
 </p></td> <td class='expander'></td></tr></table></td></tr></table>
 <table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>
-<img class='wide' src='https://i.imgur.com/jrR3QKq.jpg' width='580' height='434' title='Crawford Notch, NH'>
+<img class='wide' src='http://i.imgur.com/4SgSfUx.jpg' width='580' height='387' title='Photo by Patrik Oberlin'>
 </td> <td class='expander'></td></tr></table></td></tr></table>
 
 <table class='row'><tr><td class='wrapper last'><table class='nine columns'><tr class = 'quoteback'><td class='text-pad'><br />
 <p class='quoteback'><i>"
-Every minute outside and awake is a <b>good</b> minute!
+Tropical Storm Joaquin Strengthens East of Bahamas
 "</i></p>
 <p class='quoteback'>&nbsp;&nbsp;&nbsp;&nbsp;- 
-Calvin & Hobbes, 1993
+East Coast Landfall Potential Still Very Uncertain
 </p>
 </td> <td class='expander'></td></tr></table></td></tr></table>
 <table class='row'><tr><td class='wrapper offset-by-four last'><table class='eight columns'><tr><td><p class='inside interlude'>
-<p>Welcome back everybody, both new and old. YO is stoked to start putting out fall trips to all the gorgeous locations we have available to us here in the American Northeast.</p><p>For those new to our email list, (and those who have forgotten), if you have any questions about the trips feel free to contact the leaders, whose emails are linked right under the sign up button.</p><p>For those of you who are interested in joining our leaders' ranks, we'll be releasing our new leader application <b>next Monday</b>, so watch out for that!</p>
+<p>Have friends asking to get on the panlist? Despair no more, we now have a <a href='http://mailman.yale.edu/mailman/listinfo/yaleoutdoors'>public link</a> people can use to sign up to receive these wonderful emails!</p>
 </p></td> <td class='expander'></td></tr></table></td></tr></table>
 
 
@@ -871,7 +875,7 @@ Sunrise Hike
                                 <tr>
                                   <td>
                                     <a href='
-http://goo.gl/forms/YrBKVC6uWv
+http://goo.gl/forms/9P3jjt44fT
 '><span class='btn'>Sign Up</span>
                                     </a>
                                   </td>
@@ -889,176 +893,11 @@ http://goo.gl/forms/YrBKVC6uWv
                   </table>
 <table class='row'>
                     <tr>
-                      <td class='wrapper offset-by-seven last'>
-                        <table class='five columns'>
+                      <td class='wrapper offset-by-three last'>
+                        <table class='nine columns'>
                           <tr>
                             <td>
                               <p class='inside tdate'>
-
-<a class='email' href='mailto:
-aaron.troncoso@yale.edu
-
-'>
-Aaron Troncoso
-</a>
-
-
-| 
-09-11
-</tdate>
-</p>
-                            </td>
-                          </tr>
-                        </table>
-                      </td>
-                    </tr>
-                  </table>
-<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>
-
-<img class='trip' height='200' align='left' src="http://i.imgur.com/ikqll16.jpg" />
-
-<br />
-
-<p>
-Looking for a great way to start your semester? Whether you’re a regular or a newcomer, we’ll be heading back to West Rock State Park, a mere 15 minute drive or bike from campus on Friday morning for the first sunrise hike of the year. The plan is to leave from Phelps Gate at 05:45, and return by 8 or so. Come experience the magic of a New Haven summer sunrise!
-</p>
-</td> <td class='expander'></td></tr></table></td></tr></table>
-
-
-
-
-<table class='row'>
-                    <tr class='trip-head'>
-                      <td class='wrapper'>
-                        <table class='eight columns trip2'>
-                          <tr class='ttitle'>
-                            <td>
-                              <p class='ttitle'>
-Friday Film Screening
-</p>
-                            </td>
-                          </tr>
-                        </table>
-                      </td>
-<td class='wrapper'>
-                        <table class='three columns'>
-                          <tr>
-                            <td class='nobottom'>
-                              <table class='button'>
-                                <tr>
-                                  <td>
-                                    <a href='
-http://goo.gl/forms/GLZb6vfrNB
-'><span class='btn'>Sign Up</span>
-                                    </a>
-                                  </td>
-                                </tr>
-                              </table>         
-                            </td>
-                          </tr>
-                        </table>
-                      </td>
-                      <td class='wrapper last'>
-                        <table class='one column'>
-                        </table>
-                        </td>
-                    </tr>
-                  </table>
-<table class='row'>
-                    <tr>
-                      <td class='wrapper offset-by-seven last'>
-                        <table class='five columns'>
-                          <tr>
-                            <td>
-                              <p class='inside tdate'>
-
-<a class='email' href='mailto:
-sarah.gross@yale.edu
-
-'>
-Sarah Gross
-</a>
-
-
-| 
-09-11
-</tdate>
-</p>
-                            </td>
-                          </tr>
-                        </table>
-                      </td>
-                    </tr>
-                  </table>
-<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>
-
-<img class='trip' height='200' align='left' src="http://i.imgur.com/62q8rlN.jpg" />
-
-<br />
-
-<p>
-Come watch a cool movie with cool people! On Friday, we'll be screening the film <b>180 Degrees South</b>, a movie about adventurer Jeff Johnson retracing Patagonia founder Yvon Chouinard and North Face founder Doug Tompkins' 1968 trip to Chile. It is YO Co-Coordinator Emeritus Rafi Bildner's favorite outdoor film of all time. Join us at <b>8 p.m.</b> at the <b>YO house (229 Dwight St.)</b>. Weather permitting, we'll show it in the backyard and enjoy some s'mores around a fire pit after the movie is over.
-</p>
-</td> <td class='expander'></td></tr></table></td></tr></table>
-
-
-
-
-<table class='row'>
-                    <tr class='trip-head'>
-                      <td class='wrapper'>
-                        <table class='eight columns trip2'>
-                          <tr class='ttitle'>
-                            <td>
-                              <p class='ttitle-lg'>
-Bike to Sleeping Giant State Park
-</p>
-                            </td>
-                          </tr>
-                        </table>
-                      </td>
-<td class='wrapper'>
-                        <table class='three columns'>
-                          <tr>
-                            <td class='nobottom'>
-                              <br />
-                              <table class='button'>
-                                <tr>
-                                  <td>
-                                    <a href='
-http://goo.gl/forms/bzNezV8Il9
-'><span class='btn'>Sign Up</span>
-                                    </a>
-                                  </td>
-                                </tr>
-                              </table>         
-                            </td>
-                          </tr>
-                        </table>
-                      </td>
-                      <td class='wrapper last'>
-                        <table class='one column'>
-                        </table>
-                        </td>
-                    </tr>
-                  </table>
-<table class='row'>
-                    <tr>
-                      <td class='wrapper offset-by-five last'>
-                        <table class='seven columns'>
-                          <tr>
-                            <td>
-                              <p class='inside tdate'>
-
-<a class='email' href='mailto:
-elizabeth.karron@yale.edu
-
-'>
-Liz Karron
-</a>
-
-and
-
 
 <a class='email' href='mailto:
 marcus.russi@yale.edu
@@ -1067,87 +906,19 @@ marcus.russi@yale.edu
 Marcus Russi
 </a>
 
+and
 
-| 
-09-13
-</tdate>
-</p>
-                            </td>
-                          </tr>
-                        </table>
-                      </td>
-                    </tr>
-                  </table>
-<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>
-
-<img class='trip' height='200' align='left' src="http://i.imgur.com/dWO3Ra4.jpg" />
-
-<br />
-
-<p>
-Come bike with us to Sleeping Giant State Park! The bike ride to the park will be about 30-45 minutes. Once we're there, we'll hike, explore, and otherwise adventure. Meet in front of Phelps Gate at 11am!
-</p>
-</td> <td class='expander'></td></tr></table></td></tr></table>
-
-
-
-
-<table class='row'>
-                    <tr class='trip-head'>
-                      <td class='wrapper'>
-                        <table class='eight columns trip2'>
-                          <tr class='ttitle'>
-                            <td>
-                              <p class='ttitle-lg'>
-International Coastal Cleanup
-</p>
-                            </td>
-                          </tr>
-                        </table>
-                      </td>
-<td class='wrapper'>
-                        <table class='three columns'>
-                          <tr>
-                            <td class='nobottom'>
-                              <br />
-                              <table class='button'>
-                                <tr>
-                                  <td>
-                                    <a href='
-http://goo.gl/forms/ijH1EZwib4
-'><span class='btn'>Sign Up</span>
-                                    </a>
-                                  </td>
-                                </tr>
-                              </table>         
-                            </td>
-                          </tr>
-                        </table>
-                      </td>
-                      <td class='wrapper last'>
-                        <table class='one column'>
-                        </table>
-                        </td>
-                    </tr>
-                  </table>
-<table class='row'>
-                    <tr>
-                      <td class='wrapper offset-by-seven last'>
-                        <table class='five columns'>
-                          <tr>
-                            <td>
-                              <p class='inside tdate'>
 
 <a class='email' href='mailto:
-elizabeth.karron@yale.edu
+sarah.rose@yale.edu
 
 '>
-Liz Karron
+Sarah Rose
 </a>
 
 
 | 
-09-19
+10-02
 </tdate>
 </p>
                             </td>
@@ -1158,12 +929,12 @@ Liz Karron
                   </table>
 <table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>
 
-<img class='trip' height='141' align='left' src="http://i.imgur.com/Dfpy1GC.jpg" />
+<img class='trip' height='200' align='left' src="http://i.imgur.com/g7P2q0v.jpg" />
 
 <br />
 
 <p>
-On September 19, designated as International Coastal Cleanup Day by the Ocean Conservancy, people around the world will work to clean up the trash found on their local beaches and waterways. These volunteers have a big impact: last year, 560,000 volunteers in 91 countries picked up more than 16 million pounds of trash. Become part of the effort this year by participating in the coastal cleanup event at the Long Wharf Nature Preserve in New Haven at <b>10am</b>!
+Take some time to head once again to West Rock State Park, a mere 15 minute drive or bike from campus on Friday morning for another sunrise hike. As usual, the plan is to leave from Phelps Gate at 05:45, and return before 8. Come experience the magic of a New Haven fall sunrise!
 </p>
 </td> <td class='expander'></td></tr></table></td></tr></table>
 
@@ -1177,7 +948,7 @@ On September 19, designated as International Coastal Cleanup Day by the Ocean Co
                           <tr class='ttitle'>
                             <td>
                               <p class='ttitle-lg'>
-Moonlit Presidential Traverse
+Fall Skills Session 1: Shelters
 </p>
                             </td>
                           </tr>
@@ -1192,7 +963,7 @@ Moonlit Presidential Traverse
                                 <tr>
                                   <td>
                                     <a href='
-http://goo.gl/forms/GDAjTRT1s2
+http://goo.gl/forms/lBNxnkBqzb
 '><span class='btn'>Sign Up</span>
                                     </a>
                                   </td>
@@ -1210,42 +981,52 @@ http://goo.gl/forms/GDAjTRT1s2
                   </table>
 <table class='row'>
                     <tr>
-                      <td class='wrapper last'>
-                        <table class='twelve columns'>
+                      <td class='wrapper offset-by-one last'>
+                        <table class='eleven columns'>
                           <tr>
                             <td>
                               <p class='inside tdate'>
 
 <a class='email' href='mailto:
-sara.hamilton@yale.edu
+marcus.russi@yale.edu
 
 '>
-Sara Hamilton
+Marcus R.
 </a>
 
 ,
 
 
 <a class='email' href='mailto:
-john.golding@yale.edu
+eugene.lim@yale.edu
 
 '>
-Johnny Golding
+Eugene L.
+</a>
+
+,
+
+
+<a class='email' href='mailto:
+john.bentley@yale.edu
+
+'>
+John B.
 </a>
 
 and
 
 
 <a class='email' href='mailto:
-isaac.kirk-davidoff@yale.edu
+edward.thum@yale.edu
 
 '>
-Isaac Kirk-Davidoff
+Teddy T.
 </a>
 
 
 | 
-09-26
+10-05, 5-6p
 </tdate>
 </p>
                             </td>
@@ -1256,22 +1037,22 @@ Isaac Kirk-Davidoff
                   </table>
 <table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>
 
-<img class='trip' height='193' align='left' src="http://i.imgur.com/rh2HhlE.png" />
+<img class='trip' height='200' align='left' src="http://i.imgur.com/t5dXNtz.jpg" />
 
 <br />
 
 <p>
-Join YO on the last weekend in September as we attempt one of the most legendary hikes in the White Mountains -- the Presidential Traverse. This route travels 23 miles over 9,000ft of elevation gain across a striking ridgeline connecting many of the highest peaks in the Northeastern US. We will be doing it in a single night, under a nearly full moon – starting around nightfall on Saturday, and finishing early Sunday morning to enjoy an alpine sunrise. This itinerary demands exceptional fitness and the ability to quickly and safely navigate rocky, steep terrain at night. (Note: this trip is during Parents Weekend).
+The first installment of the our Fall 2015 Skills Sessions!  We will hold a 1-hour clinic covering the following subjects:</p><p>Staying warm, comfortable, and dry while resting in the backcountry.  Equipment selection with emphasis on the influence of forecast weather, weight, and expense, covering shelters, sleeping bags, and pads.  Site selection.  Viewing your shelter, sleeping pad and bag as a synergistic system.  Demonstration of four forms of shelter: tarps, tents, mountaineering tents, bivouac bags.  Techniques for emergency/unplanned bivouacs and extreme weather.  Forms of ultralight shelter.  Tent repair and maintenance.   Tips for staying warm in inclement weather.  Safety implications of your equipment choices and your proficiency with shelter construction.</p><p><i>Above: Vince Anderson sets up a bivouac on the fifth day of his and Steve House's alpine-style ascent of Nanga Parbat's Rupal Face, circa 2005.</i>
 </p>
 </td> <td class='expander'></td></tr></table></td></tr></table>
 
 
 <table class='row'><tr class='signoff'><td class='wrapper'><table class='ten columns'><tr><td class='text-pad'><br />
 <p class='signoff'>
-See you around
+Take care in the rain
 </p>
 <p class='signoff'>&nbsp;&nbsp;&nbsp; - 
-Sylvan 'Transport-Ants-Are-Real Tortoise' Zheng
+Sylvan 'Frisky Tortoise' Zheng
 </p></td></tr></table></td>
 <td class='wrapper last'><table class='two columns'><tr><td>
 <img width=80 height=80 src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/turtle.png' />

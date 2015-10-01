@@ -1,0 +1,58 @@
+{
+  "n": 4,
+  "subject": "This Week in YO!",
+  "interlude": "<p>Have friends asking to get on the panlist? Despair no more, we now have a <a href='http://mailman.yale.edu/mailman/listinfo/yaleoutdoors'>public link</a> people can use to sign up to receive these wonderful emails!</p>",
+  "quote": "Tropical Storm Joaquin Strengthens East of Bahamas",
+  "author": "East Coast Landfall Potential Still Very Uncertain",
+  "cover": {
+    "image_url": "http://i.imgur.com/4SgSfUx.jpg",
+    "subtitle": "Photo by Patrik Oberlin"
+  },
+  "trips": [
+    {
+      "title": "Sunrise Hike",
+      "signup_link": "http://goo.gl/forms/9P3jjt44fT",
+      "leaders": [
+        {
+          "name": "Marcus Russi",
+          "email": "marcus.russi@yale.edu"
+        },
+        {
+          "name": "Sarah Rose",
+          "email": "sarah.rose@yale.edu"
+        }
+      ],
+      "date": "10-02",
+      "blurb": "Take some time to head once again to West Rock State Park, a mere 15 minute drive or bike from campus on Friday morning for another sunrise hike. As usual, the plan is to leave from Phelps Gate at 05:45, and return before 8. Come experience the magic of a New Haven fall sunrise!",
+      "image_url": "http://i.imgur.com/g7P2q0v.jpg"
+    },
+    {
+      "title": "Fall Skills Session 1: Shelters",
+      "signup_link": "http://goo.gl/forms/lBNxnkBqzb",
+      "leaders": [
+        {
+          "name": "Marcus R.",
+          "email": "marcus.russi@yale.edu"
+        },
+        {
+          "name": "Eugene L.",
+          "email": "eugene.lim@yale.edu"
+        },
+        {
+          "name": "John B.",
+          "email": "john.bentley@yale.edu"
+        },
+        {
+          "name": "Teddy T.",
+          "email": "edward.thum@yale.edu"
+        }
+      ],
+      "date": "10-05, 5-6p",
+      "blurb": "The first installment of the our Fall 2015 Skills Sessions!  We will hold a 1-hour clinic covering the following subjects:</p><p>Staying warm, comfortable, and dry while resting in the backcountry.  Equipment selection with emphasis on the influence of forecast weather, weight, and expense, covering shelters, sleeping bags, and pads.  Site selection.  Viewing your shelter, sleeping pad and bag as a synergistic system.  Demonstration of four forms of shelter: tarps, tents, mountaineering tents, bivouac bags.  Techniques for emergency/unplanned bivouacs and extreme weather.  Forms of ultralight shelter.  Tent repair and maintenance.   Tips for staying warm in inclement weather.  Safety implications of your equipment choices and your proficiency with shelter construction.</p><p><i>Above: Vince Anderson sets up a bivouac on the fifth day of his and Steve House's alpine-style ascent of Nanga Parbat's Rupal Face, circa 2005.</i>",
+      "image_url": "http://i.imgur.com/t5dXNtz.jpg"
+    }
+  ],
+
+  "signoff": "Take care in the rain",
+  "nickname": "Frisky"
+}

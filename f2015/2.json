@@ -1,0 +1,98 @@
+{
+  "n": 2,
+  "subject": "This Week in YO!",
+  "interlude": "<p>Just a reminder, applications for new leader positions <a href='https://drive.google.com/file/d/0B3x2nzJzIOSJS195Um05Zk5SdFMzNUVTMHNuQkN0Y0RxX2tJ/view?usp=sharing'>have been released!</a> If interested, fill out the app, rename it to <i>yourlastname.pdf</i> and send it to <b>upload.YO_Lead.hkq52rq97h@u.box.com</b> by <b>September 20th, 11:59pm.</b></p>",
+  "quote": "The contented person enjoys the scenery of a detour",
+  "author": "Anonymous",
+  "cover": {
+    "image_url": "https://i.imgur.com/YLWLMck.jpg",
+    "subtitle": "New Hampshire"
+  },
+  "trips": [
+    {
+      "title": "Freshman Day Hike",
+      "signup_link": "http://goo.gl/forms/i67VM7nAl0",
+      "leaders": [
+        {
+          "name": "Marcus Russi",
+          "email": "marcus.russi@yale.edu"
+        },
+        {
+          "name": "Aaron Troncoso",
+          "email": "aaron.troncoso@yale.edu"
+        }
+      ],
+      "date": "09-19",
+      "blurb": "Join some of the fun and awesome leaders of Yale Outdoors on a casual and relaxed day hike at Sleeping Giant State Park, in nearby Hamden, CT. We will depart Phelps Gate at 9am, take a bus to Sleeping Giant, split up into small groups, and return to campus around 1:30pm. Make sure to bring water! This will be a fun and relaxed hike, and a great way to get outside and see what some of our neighboring parks have to offer. No hiking experience necessary, but the trip is capped at 36 individuals. And of course, this is for freshmen only (and is totally free if you are one)!",
+      "image_url": "http://imgur.com/WnzBGVM.png"
+    },
+    {
+      "title": "Sunrise Hike",
+      "signup_link": "http://goo.gl/forms/Kbg8wZs6r1",
+      "leaders": [
+        {
+          "name": "Marcus Russi",
+          "email": "marcus.russi@yale.edu"
+        }
+      ],
+      "date": "09-18",
+      "blurb": "The forecast this Friday morning is clear and sunny. We’ll be heading back to West Rock State Park, a mere 15 minute drive or bike from campus on Friday morning for another sunrise hike. As usual, the plan is to leave from Phelps Gate at 05:45, and return by 8 or so. Come experience the magic of a New Haven summer sunrise!",
+      "image_url": "http://i.imgur.com/ikqll16.jpg"
+    },
+    {
+      "title": "Castle Craig Hike",
+      "signup_link": "http://goo.gl/forms/GLZb6vfrNB",
+      "leaders": [
+        {
+          "name": "Max Farbman",
+          "email": "max.farbman@yale.edu"
+        },
+        { 
+          "name": "Claire Chang",
+          "email": "claire.chang@yale.edu"
+        }
+      ],
+      "date": "09-19",
+      "blurb": "Want to spend a Saturday hiking to a hundred-year old tower with an observation deck? Join YO leaders for a day hike to Hubbard Park in Meriden, CT. We will leave campus at 9:00 and be back by 4:00 pm at the latest. The hike will be beautiful, and a highlight of the trip will be eating lunch at the top of Castle Craig with views of the foothills of the Berkshires and the summit of Mount Tom. Sign up quickly because space is very limited!",
+      "image_url": "http://i.imgur.com/JIkUJZ2.jpg"
+    },
+
+    {
+      "title": "International Coastal Cleanup",
+      "signup_link": "http://goo.gl/forms/ijH1EZwib4",
+      "leaders": [
+        {
+          "name": "Liz Karron",
+          "email": "elizabeth.karron@yale.edu"
+        }
+      ],
+
+      "image_url": "http://i.imgur.com/Dfpy1GC.jpg",
+      "date": "09-19",
+      "blurb": "On September 19, designated as International Coastal Cleanup Day by the Ocean Conservancy, people around the world will work to clean up the trash found on their local beaches and waterways. These volunteers have a big impact: last year, 560,000 volunteers in 91 countries picked up more than 16 million pounds of trash. Become part of the effort this year by participating in the coastal cleanup event at the Long Wharf Nature Preserve in New Haven at <b>10am</b>!"
+    },
+    {
+      "title": "Moonlit Presidential Traverse",
+      "signup_link": "http://goo.gl/forms/GDAjTRT1s2",
+      "image_url": "http://i.imgur.com/rh2HhlE.png",
+      "leaders": [
+        {
+          "name": "Sara Hamilton",
+          "email": "sara.hamilton@yale.edu"
+        },
+        {
+          "name": "Johnny Golding",
+          "email": "john.golding@yale.edu"
+        },
+        {
+          "name": "Isaac Kirk-Davidoff",
+          "email": "isaac.kirk-davidoff@yale.edu"
+        }
+      ],
+      "date": "09-26",
+      "blurb": "Join YO on the last weekend in September as we attempt one of the most legendary hikes in the White Mountains -- the Presidential Traverse. This route travels 23 miles over 9,000ft of elevation gain across a striking ridgeline connecting many of the highest peaks in the Northeastern US. We will be doing it in a single night, under a nearly full moon – starting around nightfall on Saturday, and finishing early Sunday morning to enjoy an alpine sunrise. This itinerary demands exceptional fitness and the ability to quickly and safely navigate rocky, steep terrain at night. (Note: this trip is during Parents Weekend)."
+    }
+  ],
+  "signoff": "See you around",
+  "nickname": "Trusty"
+}
