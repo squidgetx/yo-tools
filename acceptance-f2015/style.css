@@ -46,7 +46,7 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   position:  absolute;
-  bottom: 0%;
+  bottom: 0;
   margin: -5% -4%;
   left: 0;
   height: 120%;
@@ -181,7 +181,7 @@ li, p {
     display: none;
   }
 }
-@media only screen and (max-device-width: 960px) {
+@media only screen and (max-device-width: 980px) {
   .widget {
     width: 80%;
     left: 10%;
@@ -191,19 +191,21 @@ li, p {
     width: 500px;
     height: 250px;
     top: 10%;
-    left: 23%;
+    left: 20%;
   }
-  .sun {
-    width: 200px;
-    height: 200px;
-    bottom: 40%;
+  .foreground {
+    background-size: cover;
+  }
+
+  .tree {
+    margin: -10% -10%;
   }
   .letter {
     font-size: 20px;
   }
 }
 
-@media only screen and (max-device-width: 960px) and (orientation: landscape) {
+@media only screen and (max-device-width: 980px) and (orientation: landscape) {
   .logo {
     left: 30%;
   }
