@@ -42,7 +42,7 @@ body {
 }
 
 .foreground {
-  background-image: url('foreground.png');
+  background-image: url('foreground.gif');
   background-size: contain;
   background-repeat: no-repeat;
   position:  absolute;
@@ -54,7 +54,7 @@ body {
 }
 
 .tree {
-  background-image: url('tree1.png');
+  background-image: url('tree1.gif');
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
