@@ -181,6 +181,18 @@ li, p {
  .c {
     display: none;
   }
+  
+  .foreground {
+    background-size: cover;
+  }
+
+  .tree {
+    margin: -10% -10%;
+  }
+  .letter {
+    font-size: 20px;
+  }
+
 }
 @media only screen and (max-device-width: 980px) {
   .widget {
