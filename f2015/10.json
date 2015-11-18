@@ -1,0 +1,45 @@
+{
+  "n": 10,
+  "subject": "This Week in YO!",
+  "interlude": "<p>Hey YO Members! Interested in showing your YO pride? Interested in showing your YO pride? Order a Yale Outdoors Nalgene by filling out this <a href='http://goo.gl/forms/0KabUCFyZy'>form</a> by <b>Saturday Novermber 21st. </b> Nalgenes will cost approximately $10-15 each -- the exact price will be announced once we place the order.<br><img src='http://i.imgur.com/KSNL9ah.jpg' /></p>",
+  "quote": "We do not live to eat and make money, we eat and make money to be able to enjoy life.",
+  "author": "George Mallory",
+  "cover": {
+    "image_url": "http://i.imgur.com/nOkYYoU.jpg", 
+    "subtitle": "The Sierras"
+  },
+  "trips": [
+  {
+      "title": "wilderness first responder training",
+      "signup_link": "http://goo.gl/forms/bebvcve5yf",
+      "leaders": [
+        {
+          "name": "aaron troncoso",
+          "email": "aaron.troncoso@yale.edu"
+        },
+        {
+          "name": "marcus russi",
+          "email": "marcus.russi@yale.edu"
+        }
+      ],
+      "blurb": "want to know more than just the basics of wilderness medicine? this winter’s wilderness first responder course (wfr) hosted by yale outdoors will go beyond elementary first aid skills and give you a wide variety of techniques and tools for staying safe in the backcountry. the course will most likely be held on yale's campus, though if it is held somewhere else food and lodging will be provided. this is a wonderful opportunity to spend the last week of winter break learning valuable skills and hanging around fellow outdoorsy people.</p><p>more details on pricing to come, but indicate your interest by signing up now! the course will be subsidized for yale students, and will definitely cost less than the same course run by a different organization. limited scholarships are available based on demonstrated need.",
+      "date": "1-10 - 1-17 | $tbd",
+      "image_url": "http://i.imgur.com/hh26t5X.jpg"
+    },
+    {
+      "title": "east rock hike",
+      "signup_link": "http://goo.gl/forms/ki96vgfbbv",
+      "leaders": [
+        {
+          "name": "brian beitler",
+          "email": "brian.beitler@yale.edu"
+        }
+      ],
+      "date": "11-20, 1p | $0",
+      "blurb": "Want an east rock trip that leaves at a reasonable time and that travels at a reasonable pace? Look no further than this trip! We will leave from phelps gate at 1pm and set off at a brisk stroll up east rock where we look at the view that your friends always say is so great. This is a perfect trip if you have never been up east rock and want to be able to say that you have done it. It is also perfect if you have done it 1,000 times.",
+      "image_url": "http://i.imgur.com/gHC8IlG.jpg"
+    }
+  ],
+  "signoff": "BREAK IS SO CLOSE I CAN TASTE IT",
+  "nickname": "Triangular"
+}

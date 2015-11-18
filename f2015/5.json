@@ -1,0 +1,161 @@
+{
+  "n": 5,
+  "subject": "This Week in YO!",
+  "interlude": "<p>Hey YO Members! Interested in showing your YO pride? Order a Yale Outdoors T-shirt by filling out <a href='http://goo.gl/forms/iCiTbXrDsE'>this form</a> by <b>Friday October 9th.</b> T-shirts will cost approximately $10 -- the exact price will be announced once we place the order. And keep an eye out for a YO Nalgene order form coming out in the next week or two.</p><p> Happy Trails from the YO Gear Room!</p>",
+  "quote": "Living in the sprawl, dead shopping malls rise like mountains beyond mountains. And there's no end in sight, I need the darkness someone please cut the lights.",
+  "author": "Arcade Fire",
+  "cover": {
+    "image_url": "https://i.imgur.com/7feglw1.jpg",
+    "subtitle": "Colorado Aspens"
+  },
+  "trips": [
+    {
+      "title": "Sunrise Hike",
+      "signup_link": "http://goo.gl/forms/9P3jjt44fT",
+      "leaders": [
+        {
+          "name": "Liz Karron",
+          "email": "elizabeth.karron@yale.edu"
+        }
+      ],
+      "date": "10-09",
+      "blurb": "Take some time to head once again to West Rock State Park, a mere 15 minute drive or bike from campus on Friday morning for another sunrise hike. As usual, the plan is to leave from Phelps Gate at 05:45, and return before 8. Come experience the magic of a New Haven fall sunrise!",
+      "image_url": "http://i.imgur.com/g7P2q0v.jpg"
+    },
+    { 
+      "title": "Whites Overnight",
+      "signup_link": "http://goo.gl/forms/pEd83ZXFAv",
+      "leaders": [
+        {
+          "name": "Dave Milewicz",
+          "email": "david.milewicz@yale.edu"
+        },
+        {
+          "name": "Sylvan Zheng",
+          "email": "sylvan.zheng@yale.edu"
+        },
+        {
+          "name": "Max Farbman",
+          "email": "max.farbman@yale.edu"
+        }
+      ],
+      "date": "10/10-10/11 | $20",
+      "blurb": "Join YO as we head to the White Mountains to hike the Bonds Traverse this Saturday-Sunday! This route is a demanding 20-mile traverse that includes the peaks of West Bond, Mount Bond, and Bondcliff where we will have the opportunity to enjoy some of the most spectacular views in the White Mountains.  We will leave early Saturday morning and will return Sunday evening. Spots are limited!",
+      "image_url": "http://i.imgur.com/NlZyuzG.jpg"
+    },
+    {
+      "title": "Fall Skill Sessions 2: Stoves",
+      "signup_link": "http://goo.gl/forms/TS8lNylZW4",
+      "leaders": [
+        {
+          "name": "Max F",
+          "email": "max.farbman@yale.edu"
+        },
+        {
+          "name": "Marcus R",
+          "email": "marcus.russi@yale.edu"
+        },
+        {
+          "name": "David M",
+          "email": "david.milewicz@yale.edu"
+        },
+        {
+          "name": "John B",
+          "email": "john.bentley@yale.edu"
+        }
+      ],
+      "date": "10-12, 5-6p",
+      "blurb": "The second installment of the our Fall 2015 Skills Sessions! Enrollment limited to 5.</p><p>  We'll hold a 1-hour clinic covering the following subjects: How to operate canister, liquid fuel, and integrated stoves, with a focus on MSR Pocket Rocket, WhisperLite, and potentially Jetboil.  Fuel selection and management, cooking in cold weather and at altitude.  Snow melting and water purification.  Brief overview of stove maintenance and repair with an emphasis on the importance of self-teaching and practice.  Discussion of the outsize influence the stove and your knowledge of its use and repair has on your safety.  This Skills Session does not cover meal planning or preparation, but is essential for a complete understanding of nutrition and hydration in the backcountry.",
+      "image_url": "http://i.imgur.com/KMR4wMm.png"
+    },
+    {
+      "title": "Fall Skill Sessions 3: Cooking",
+      "signup_link": "http://goo.gl/forms/mTiB3ZNxvL",
+      "leaders": [
+        {
+          "name": "Rafi B",
+          "email": "rafi.bildner@yale.edu"
+        },
+        {
+          "name": "Miela M",
+          "email": "miela.mayer@yale.edu"
+        },
+        {
+          "name": "Liz K",
+          "email": "elizabeth.karron@yale.edu"
+        },
+        {
+          "name": "Johnny G",
+          "email": "johnny.golding@yale.edu"
+        }
+      ],
+      "date": "10-15, 5-6p",
+      "blurb": "The third installment of the our Fall 2015 Skills Sessions! Enrollment limited to 5.</p><p> We'll hold a 1-hour clinic covering the following subjects: How to stay nourished during outdoors trips of any form and length.  The nutritional requirements of being highly active for several days in a row and how they can be fulfilled.  Balancing the oftentimes competing issues of food preservation, cost, taste, ease of meal preparation, total weight, water requirements of the meal, and dietary choices of participants.  Cooking for small and large groups.  Brief discussion of ultralight, gourmet, and stoveless cooking.  A sample meal will be prepared.  Stoves will be used but there will be no instruction on their use, maintenance, or repair. ",
+      "image_url": "http://i.imgur.com/YxsQ5Fi.png"
+    },
+    { 
+      "title": "AT Day of Service",
+      "signup_link": "http://goo.gl/forms/KiO7DEH6Ub",
+      "leaders": [
+        {
+          "name": "Elizabeth Karron",
+          "email": "elizabeth.karron@yale.edu"
+        }
+      ],
+      "date": "10-17, 8a-5p",
+      "blurb": "October 17 is Appalachian Trail Day in Connecticut! To celebrate, the Appalachian Trail Conservancy, a group devoted to protecting and maintaining the AT, will be running huge hiking and service events in the beautiful Macedonia Brook State Park near Kent, CT. Come join YO in participating in a special all-day Boundary Maintenance Workshop, in which we will learn about everything from how the corridor is managed, to how to read and interpret land deeds. After the boundary workshop, we'll go to a giant BBQ.",
+      "image_url": "http://i.imgur.com/0rh4BW6.jpg"
+    },
+    {
+      "title": "FallYO: Shenandoah",
+      "signup_link": "http://goo.gl/forms/t9xnUxpLOu",
+      "leaders": [
+        {
+          "name": "Isaac Kirk-Davidoff",
+          "email": "isaac.kirk-davidoff@yale.edu"
+        },
+        {
+          "name": "Danilo Zak",
+          "email": "danilo.zak@yale.edu"
+        }
+      ],
+      "date": "10-21 - 10-24 | $100",
+      "blurb": "Oh Shenandoah! Join YO this fall break on a 4 day backpacking trip down under the Mason-Dixon Line in beautiful Shenandoah National Park. We’re headed south to catch the warm Virginia weather before facing another brutal winter here in Connecticut. We’ll go 6-8 miles a day on somewhat strenuous terrain. Open to all skill levels, but priority will be given to those with cars. Capped at 8 hikers.",
+      "image_url": "http://i.imgur.com/KgNSgEt.jpg"
+    },
+    {
+        "title": "FallYO: Canoe",
+        "signup_link": "http://goo.gl/forms/fK8Y89Ocqk",
+        "leaders": [
+          {
+            "name": "John Bentley",
+            "email": "john.bentley@yale.edu"
+          },
+          {
+            "name": "Angus Mossman",
+            "email": "angus.mossman@yale.edu"
+          }
+        ],
+        "date": "10-21 - 10-24",
+        "blurb": "We're excited to expand our trip repertoire this fall break with a canoe trip! If a few days of relaxing paddling along a placid river with beautiful New England scenery accompanied by chilly nights nestled in a sleeping bag falling asleep to the gentle sound of water flowing by sounds like how you want to spend your fall break, we invite you to consider this trip. Due to the complicated logistics involved and limited transportation to keep the costs down, we will be keeping the size of this trip quite small. In an effort to do so, and also for safety,  we are asking for prior canoeing experience (no need to be an expert, but familiarity with being on the water with a paddle is a must). You also must be able to swim. We have yet to flesh out the details of this trip in terms of cost and location, and will be sure to send out more information as soon as we know, so keep your eyes peeled. However, if this trip is something you've always dreamed of, we strongly encourage you to apply now. ",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/BWCA_Canoe_Outing_-_001.jpg"
+      },
+    {
+      "title": "Skydiving!",
+      "signup_link": "http://goo.gl/forms/eL3DQHL5ZC",
+      "leaders": [
+        {
+          "name": "Sarah Rose",
+          "email": "sarah.rose@yale.edu"
+        }
+      ],
+      "date": "10-30 | $200",
+      "blurb": "Have you ever wanted to experience the total freedom of jumping out of a plane? Have you dreamed of falling at 120mph with the wind screaming past your body? Have you fantasized of floating through clouds? Are you addicted to the addictive? If any of this sounds like you, then come sky dive with Yale Outdoors at Skydive Danielson. Make friends, and have the experience of a lifetime! Sign up now and reserve your spot!",
+      "image_url": "http://i.imgur.com/sgvRIOv.jpg"
+    }
+
+  ],
+
+  "signoff": "Good luck on your midterms!",
+  "nickname": "Trusty"
+}

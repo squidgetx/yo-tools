@@ -1,0 +1,130 @@
+{
+  "n": 7,
+  "subject": "This Week in YO!",
+  "interlude": "<p>Hey YO Members! Interested in showing your YO pride? Interested in showing your YO pride? Order a Yale Outdoors Nalgene by filling out this <a href='http://goo.gl/forms/0KabUCFyZy'>form</a> by <b>Saturday October 31st.</b> Nalgenes will cost approximately $10-15 each -- the exact price will be announced once we place the order.</p>",
+  "quote": "It's always further than it looks. It's always taller than it looks. And it's always harder than it looks.",
+  "author": "Three rules of mountaineering",
+  "cover": {
+    "image_url": "https://c1.staticflickr.com/1/633/22396770122_4cdd2e790c_o.jpg",
+    "subtitle": "Ithaca NY"
+  },
+  "trips": [
+       {
+      "title": "Sunrise Hike",
+      "signup_link": "http://goo.gl/forms/8E6BDkSTmd",
+      "leaders": [
+        {
+          "name": "Johnny Golding",
+          "email": "johnny.golding@yale.edu"
+        }
+      ],
+      "date": "10-30 | $0",
+      "blurb": "Take some time to head once again to West Rock State Park, a mere 15 minute drive or bike from campus on Friday morning for another sunrise hike. The plan is to leave from Phelps Gate at 6:15AM, and return before 8. Come experience the magic of a New Haven fall sunrise!",
+      "image_url": "http://i.imgur.com/g7P2q0v.jpg"
+    },
+    {
+      "title": "Bubbly Halloween Run",
+      "signup_link": "http://goo.gl/forms/d47xfCWN8S",
+      "leaders": [
+        {
+          "name": "Marcus Russi",
+          "email": "marcus.russi@yale.edu"
+        },
+        {
+          "name": "Ariela Schear",
+          "email": "ariela.schear@yale.edu"
+        },
+        {
+          "name": "Elena Hodges",
+          "email": "elena.hodges@yale.edu"
+        }
+      ],
+      "date": "10-30, 11:59p | $1",
+      "blurb": "Join the YO running crew for a spooky midnight run through New Haven.  We promise a unique route, and a few surprises, but can say no more.  Costume more or less required.",
+      "image_url": "http://i.imgur.com/kWEKSKN.jpg"
+    },
+    { 
+      "title": "Halloween Hike",
+      "signup_link": "http://goo.gl/forms/ml0PlgLgUw",
+      "leaders": [
+        {
+          "name": "Tessa Adler",
+          "email": "tessa.adler@yale.edu"
+        },
+        {
+          "name": "Sarah Grossman-Kahn",
+          "email": "sarah.grossman-kahn@yale.edu"
+        }
+      ],
+      "date": "10-31 | $5",
+      "blurb": "Come on a Halloween themed hike to celebrate the fall and all things spooky. We will be going to explore the Devil's Den on Saturday morning. We will be departing from Phelps Gate at 9:30 am and returning around 1:30. Bring water and snacks! We will bring some treats, but Mother Earth has the tricks covered. Cure your hangover with the great outdoors! ",
+      "image_url": "http://i.imgur.com/HWpiTOW.png"
+    },
+ {
+      "title": "Fall Skill Sessions 3: Cooking",
+      "signup_link": "http://goo.gl/forms/mTiB3ZNxvL",
+      "leaders": [
+        {
+          "name": "Rafi B",
+          "email": "rafi.bildner@yale.edu"
+        },
+        {
+          "name": "Aaron T",
+          "email": "aaron.troncoso@yale.edu"
+        },
+        {
+          "name": "John B",
+          "email": "elizabeth.karron@yale.edu"
+        },
+        {
+          "name": "Marcus R",
+          "email": "marcus.russi@yale.edu"
+        }
+      ],
+      "date": "11-5, 5:30p | $0",
+      "blurb": "The third installment of our Fall 2015 Skills Sessions! Enrollment limited to 10.</p><p>Have you dreamed of cooking gourmet, yet easy-to-prepare meals in the backcountry? Do you opt for a quick packet of ramen or easy mac simply because you don't know how to whip up some yummy trail food? If so, this skills sessions is for you! Come if you have dreams of becoming a proficient backcountry chef. This clinic will last roughly an hour, and will cover the following subjects: How to stay nourished during trips of any form and length; the nutritional requirements of being highly active for several days in a row and how they can be fulfilled; balancing the many needs of eating in the outdoors (food preservation, cost, taste, ease of meal preparation, total weight, water requirements of the meal, dietary restrictions of trip participants, equipment limitations). Sample trip menus will be given, along with recipe ideas and helpful hacks to allow you to be the best trail cook possible. From baking cinnamon roles to easy pasta dinners, all will be covered. Brief discussion of ultralight, gourmet, and stoveless cooking included as well. A sample meal will be prepared. Stoves will be used to demonstrate technique but there will be no instruction on their use, maintenance, or repair.",
+      "image_url": "http://i.imgur.com/YxsQ5Fi.png"
+    },
+
+    {
+      "title": "Fall Skills Session 4: Navigation",
+      "signup_link": "http://goo.gl/forms/ilfUw7r9EE",
+      "leaders": [
+        {
+          "name": "Marcus Russi",
+          "email": "marcus.russi@yale.edu"
+        }
+      ],
+      "date": "11-6, 3-5p | $0",
+      "blurb": "The fourth installment of our Fall 2015 Skills Sessions! Enrollment limited to 5.  Covering the following:</p><p>How to figure out where you are and where you should be going.  What to do if you believe you’re lost.  Principles of navigation using a topographic map and magnetic compass.  Exercises to develop your ability to correlate terrain in your visual field with its representation on a topographic map.  Advantages and disadvantages of GPS devices and GPS-enabled cell phones.  Strategies for navigating in whiteouts, cold, darkness, and regions with complex topography.  Mapless navigation and general navigational heuristics.  Creating, sharing, printing, and protecting your own maps.  Tips for using Google Earth, Caltopo, Hillmap, and Gaia GPS.",
+      "image_url": "http://i.imgur.com/7je5Xt4.jpg"
+    },
+    {
+      "title": "Vermont Long Trail",
+      "signup_link": "http://goo.gl/forms/BH9kSr9cCD",
+      "leaders": [
+        {
+          "name": "Ariela S.",
+          "email": "ariela.schear@yale.edu"
+        },
+        {
+          "name": "Dan G",
+          "email": "daniel.grosvenor@yale.edu"
+        },
+        {
+          "name": "Tim R",
+          "email": "timothy.rawlinson@yale.edu"
+        },
+        {
+          "name": "Marie F",
+          "email": "ella.freudenburg@yale.edu"
+        }
+      ],
+      "date": "11-06 - 11-08 | $tbd",
+      "blurb": "Escape New Haven for a weekend and come backpacking on the Long Trail in Vermont! We will be driving down on Friday evening, camping, and then hitting the trail early Saturday morning for a full day of hiking (~8-10 miles). We will cook a delicious backcountry dinner and spend Saturday night in one of the Long Trail shelters. On Sunday, we will hike a short distance to the trailhead and aim to return to campus by mid-afternoon. The late fall weather will be fairly chilly, with temperatures likely in the 30s-40s during the day and dropping down to the 20s at night. The terrain will be moderately challenging, and some previous backpacking experience is ideal. Hopefully we will catch the last of the stunning foliage and get some spectacular views along the ridge-line! Please sign up by Sunday at midnight.",
+      "image_url": "http://i.imgur.com/ydJQmsB.jpg"
+      }
+  ],
+  "signoff": "Thanksgiving break... T minus 4 weeks",
+  "nickname": "Trusty"
+}

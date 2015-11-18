@@ -1,0 +1,106 @@
+{
+  "n": 9,
+  "subject": "This Week in YO!",
+  "interlude": "<p>Hey YO Members! Interested in showing your YO pride? Interested in showing your YO pride? Order a Yale Outdoors Nalgene by filling out this <a href='http://goo.gl/forms/0KabUCFyZy'>form</a> by <b>Saturday Novermber 14th.</b> Nalgenes will cost approximately $10-15 each -- the exact price will be announced once we place the order.<br><img src='http://i.imgur.com/KSNL9ah.jpg' /></p>",
+  "quote": "Every mountain top is within reach if you just keep climbing",
+  "author": "Barry Finlay",
+  "cover": {
+    "image_url": "https://i.imgur.com/MRGtQLR.jpg", 
+    "subtitle": "Ecuador"
+  },
+  "trips": [
+{
+      "title": "Wilderness First Responder Training",
+      "signup_link": "http://goo.gl/forms/beBvcVE5yF",
+      "leaders": [
+      {
+        "name": "Aaron Troncoso",
+        "email": "aaron.troncoso@yale.edu"
+      },
+      {
+        "name": "Marcus Russi",
+        "email": "marcus.russi@yale.edu"
+      }
+      ],
+      "blurb": "Want to know more than just the basics of wilderness medicine? This winter’s Wilderness First Responder course (WFR) hosted by Yale Outdoors will go beyond elementary first aid skills and give you a wide variety of techniques and tools for staying safe in the backcountry. The course will most likely be held on Yale's campus, though if it is held somewhere else food and lodging will be provided. This is a wonderful opportunity to spend the last week of winter break learning valuable skills and hanging around fellow outdoorsy people.</p><p>More details on pricing to come, but indicate your interest by signing up now! The course will be subsidized for Yale students, and will definitely cost less than the same course run by a different organization. Limited scholarships are available based on demonstrated need.",
+      "date": "1-10 - 1-17 | $tbd",
+      "image_url": "http://i.imgur.com/hh26t5X.jpg"
+    },
+
+    {
+      "title": "West Rock Hike/Run",
+      "signup_link": "http://goo.gl/forms/BCDVPi0eWo",
+      "leaders": [
+        {
+          "name": "Max Farbman",
+          "email": "max.farbman@yale.edu"
+        },
+        {
+          "name": "Johnny Golding",
+          "email": "john.golding@yale.edu"
+        }
+      ],
+      "date": "11-12, 8a-11a | $0",
+      "blurb": "This Thursday morning we will be leading a hike/run to West Rock. We will meet at Phelps Gate at 8am and have one group drive to West Rock and then hike to the summit and have another group run from Phelps Gate to West Rock (at a slow pace). We will return to campus by 11am. We hope that this hike will give us all a chance to take a break after a challenging week and appreciate the beauty that the New England autumn has to offer.</p><p>Sign up by Wednesday at 9pm and please indicate if you’d like to drive or run.</p>",
+      "image_url": "https://environment.yale.edu/content/images/00000957/WestRock-Austin-Lord-browser.jpg?1423245634"
+    },
+    {
+      "title": "YO Speaker: Florian Hill",
+      "signup_link": "https://www.facebook.com/events/614675475302322/",
+      "leaders": [
+        {
+          "name": "Toh Zheng Xiang",
+          "email": "zhengxiang.toh@yale.edu"
+        }
+      ],
+      "date": "11-12 4p | $0",
+      "blurb": "Come hear about the adventures of extreme mountaineer Florian Hill and see the beautiful photos he has taken on his expeditions this Thursday (11/12). Florian started mountaineering expeditions at 19, has trained sled-dog teams, and was nominated for the 'Oscar of Alpinism' - the Piolets d'Or. During his ascent of 20,322ft Denali, he was buried by an avalanche and barely survived.</p><p>To hear more, come to the JE Theater (Entryway G) at 4.30pm on Thursday (11/12)! Tea is served from 4pm.</p>",
+      "image_url": "http://i.imgur.com/GuKizv0.png"
+    },
+    {
+      "title": "Sunset Hike",
+      "signup_link": "http://goo.gl/forms/NO3nuv9ouk",
+      "leaders": [
+        {
+          "name":  "Marcus Russi",
+          "email": "marcus.russi@yale.edu"
+        }
+      ],
+      "date": "11-13, 3p | $0",
+      "blurb": "To everybody who couldn't get out of bed for our Sunrise Hikes: I'm with you.  Join me for a chill hike at West Rock Ridge State Park on Friday evening.  We'll watch the sun set on what'll have undoubtably been a long week for everybody, from the top of a picturesque crag on the lesser-explored, crowd-free west side of the park.  You'll be back by 6.  Hot cocoa provided.",
+      "image_url": "http://i.imgur.com/vA03ngI.png"
+    },
+    {
+      "title": "ATV Run", 
+      "signup_link": "http://goo.gl/forms/695IizmOQF",
+      "leaders": [
+      {
+        "name": "Marcus Russi",
+        "email": "marcus.russi@yale.edu"
+      },
+      {
+        "name": "Jack Roth",
+        "email": "jack.roth@yale.edu"
+      }
+      ],
+      "date": "11-14 9a | $0",
+      "blurb": "I will show you a cool 10mi loop that showcases the wealth of terrain available to the adventurous New Haven runner.  Only two Yale students have ever run this loop!!  Ever!  We'll be running on roads, sidewalks, trails, golf courses, and, if it's cold enough (it won't be..), water.  You'll get the most out of this if you can sustain 7:00-8:00 min/mi pace over that distance on the road.  There might be hot cocoa.  Back by 11",
+      "image_url": "http://i.imgur.com/1U8PWB3.png"
+    },
+    {
+      "title": "Fall Skills Session 5: Outdoor Leadership",
+      "signup_link": "http://goo.gl/forms/bWca70qz54",
+      "leaders": [
+      {
+        "name": "Sarah Gross",
+        "email": "sarah.gross@yale.edu"
+      }
+      ],
+      "date": "11-16, 5p | $0",
+      "blurb": "Experienced NOLS instructor, outdoor educator, and all-around fun dude Ben Huber will be leading a skills session on outdoor leadership. He will cover fostering group cohesiveness, keeping trips fun, caring for individual members of a trip, and specific problems that might arise when you bring a group to the great outdoors. Meet us at the Davenport Dive at 5pm!",
+      "image_url": "http://outdoorleaders.com/wp-content/uploads/2010/11/DSCN1674.jpg"
+    }
+          ],
+  "signoff": "Take some time to get outside this week folks. Yours,",
+  "nickname": "Triangular"
+}

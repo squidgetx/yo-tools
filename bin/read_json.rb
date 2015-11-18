@@ -37,6 +37,10 @@ template = File.open("templates/template.html.erb").read
     img_size = FastImage.size(t['image_url'])
     # scale image, to either 200 px tall
     # or to 580 px wide
+    if (img_size == nil)
+      STDERR.puts "Image fetch failed (#{t['image_url']})"
+      exit
+    end
     img_h = 200
     img_w = 200 * img_size[0] / img_size[1]
 

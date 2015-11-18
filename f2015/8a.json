@@ -1,0 +1,29 @@
+{
+  "n": "8a",
+  "subject": "[YO] YO Workday 11-7!",
+  "cover": {
+    "image_url": "http://i.imgur.com/cFIB3mG.jpg", 
+    "subtitle": "Michigan"
+  },
+  "trips": [
+   {
+      "title": "New Haven Land Trust Workday",
+      "signup_link": "http://goo.gl/forms/dXvfxBWVOB",
+      "leaders": [
+        {
+          "name": "Michael Lebwohl",
+          "email": "michael.lebwohl@yale.edu"
+        },
+        {
+          "name": "Brian Beitler",
+          "email": "brian.beitler@yale.edu"
+        }
+      ],
+      "date": "11-7, 8-10a | $0",
+      "blurb": "What better way to spend your Saturday morning than outside with your hands in the dirt, working for a good cause? Join YO to work with the New Haven Land Trust this Saturday to help build infrastructure for one of their many urban gardens. We'll be building raised beds, filling them with soil, and spreading wood chips at Winchester Garden, located at 86 Winchester Street. Biking will be the mode of transport to and from",
+      "image_url": "http://accessventures.org/wp-content/uploads/2015/07/GROCE-FAMILY-FARM-2.jpg"
+    }
+  ],
+  "signoff": "Peace",
+  "nickname": "Tingly"
+}

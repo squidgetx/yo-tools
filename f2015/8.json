@@ -1,0 +1,105 @@
+{
+  "n": 8,
+  "subject": "This Week in YO!",
+  "interlude": "<p>Hey YO Members! Interested in showing your YO pride? Interested in showing your YO pride? Order a Yale Outdoors Nalgene by filling out this <a href='http://goo.gl/forms/0KabUCFyZy'>form</a> by <b>Saturday Novermber 7th.</b> Nalgenes will cost approximately $10-15 each -- the exact price will be announced once we place the order.<br><img src='http://i.imgur.com/KSNL9ah.jpg' /></p>",
+  "quote": "Going back to a simpler life based on living by sufficiency rather than excess is not a step backward.",
+  "author": "Yvon Chouinard",
+  "cover": {
+    "image_url": "https://i.imgur.com/WxiiaNV.jpg", 
+    "subtitle": "Sylvan Lake"
+  },
+  "trips": [
+   {
+      "title": "Fall Skill Sessions 3: Cooking",
+      "signup_link": "http://goo.gl/forms/mTiB3ZNxvL",
+      "leaders": [
+        {
+          "name": "Rafi B",
+          "email": "rafi.bildner@yale.edu"
+        },
+        {
+          "name": "Aaron T",
+          "email": "aaron.troncoso@yale.edu"
+        },
+        {
+          "name": "John B",
+          "email": "elizabeth.karron@yale.edu"
+        },
+        {
+          "name": "Marcus R",
+          "email": "marcus.russi@yale.edu"
+        }
+      ],
+      "date": "11-5, 5:30p | $0",
+      "blurb": "The third installment of our Fall 2015 Skills Sessions! Enrollment limited to 10.</p><p>Have you dreamed of cooking gourmet, yet easy-to-prepare meals in the backcountry? Do you opt for a quick packet of ramen or easy mac simply because you don't know how to whip up some yummy trail food? If so, this skills sessions is for you! Come if you have dreams of becoming a proficient backcountry chef. This clinic will last roughly an hour, and will cover the following subjects: How to stay nourished during trips of any form and length; the nutritional requirements of being highly active for several days in a row and how they can be fulfilled; balancing the many needs of eating in the outdoors (food preservation, cost, taste, ease of meal preparation, total weight, water requirements of the meal, dietary restrictions of trip participants, equipment limitations). Sample trip menus will be given, along with recipe ideas and helpful hacks to allow you to be the best trail cook possible. From baking cinnamon roles to easy pasta dinners, all will be covered. Brief discussion of ultralight, gourmet, and stoveless cooking included as well. A sample meal will be prepared. Stoves will be used to demonstrate technique but there will be no instruction on their use, maintenance, or repair.",
+      "image_url": "http://i.imgur.com/YxsQ5Fi.png"
+    },
+    {
+      "title": "College Night @ City Climb",
+      "signup_link": "https://www.facebook.com/events/1675975765980613/",
+      "leaders": [
+      {
+        "name": "hosted by the Yale Climbing Team",
+        "email": "sylvan.zheng@yale.edu"
+      }
+      ],
+      "date": "11-6, 7-9:30p | $10",
+      "blurb": "Into rock climbing? New Haven's City Climb will be hosting the semester's first College Night on Friday the 6th from 7:30 to 9:30 pm. Yale students get a huge discount on a day pass and gear rental (you get both for $10). Yale Climbing Team members will be there to belay you. No previous climbing experience is necessary. Meet at HGS at 7:10 to catch the shuttle!",
+      "image_url": "http://i.imgur.com/duB1d9H.jpg"
+    },
+
+    {
+      "title": "Fall Skills Session 4: Navigation",
+      "signup_link": "http://goo.gl/forms/ilfUw7r9EE",
+      "leaders": [
+        {
+          "name": "Marcus Russi",
+          "email": "marcus.russi@yale.edu"
+        }
+      ],
+      "date": "11-6, 3-5p | $0",
+      "blurb": "The fourth installment of our Fall 2015 Skills Sessions! Enrollment limited to 5.  Covering the following:</p><p>How to figure out where you are and where you should be going.  What to do if you believe you’re lost.  Principles of navigation using a topographic map and magnetic compass.  Exercises to develop your ability to correlate terrain in your visual field with its representation on a topographic map.  Advantages and disadvantages of GPS devices and GPS-enabled cell phones.  Strategies for navigating in whiteouts, cold, darkness, and regions with complex topography.  Mapless navigation and general navigational heuristics.  Creating, sharing, printing, and protecting your own maps.  Tips for using Google Earth, Caltopo, Hillmap, and Gaia GPS.",
+      "image_url": "http://i.imgur.com/7je5Xt4.jpg"
+    },
+    {
+      "title": "Saturday Movie Night",
+      "signup_link": "http://goo.gl/forms/hu8ffueE6l",
+      "date": "11-7, 5p | $0",
+      "leaders": [{
+        "name": "Rafi Bildner",
+        "email": "rafi.bildner@yale.edu"
+      }],
+      "blurb": "This Saturday, at 5pm, join Yale Outdoors and the Yale Cycling Team for a screening of <b>Inspired to Ride,</b> a film that chronicles the first edition, in 2014, of the Trans-Am Bike Race. This race isn't your average bike ride: It's a completely solo, unsupported 4,233 mile journey across the United States. This film, produced/directed by the filmmakers who created the award winning documentary, Ride the Divide (about the Great Divide mountain bike race from Canada to Mexico), chronicles endurance athletes who you've never heard of, in an event you've never heard of, pushing themselves to the absolute limit. They ride through the night, in all weather conditions, cycling as fast as they possibly can from coast to coast, with everything they need on their bikes. The film was just released, and it's sure to be a blast to watch, and very inspiring! The screening will be on <b>Saturday, at 5:00 pm in Linsly-Chittenden (LC) Hall Room 317 (63 High Street).</b> Snacks and drinks provided!",
+      "image_url": "http://i.imgur.com/Fhcewyi.png"
+    },
+    {
+      "title": "Mattatuck Day Hike",
+      "date": "11-8, 9:30a | $5",
+      "signup_link": "http://goo.gl/forms/OfodpqVkI2",
+      "leaders": [
+      {
+        "name": "Julia R",
+        "email": "julia.rosenheim@yale.edu"
+      },
+      {
+        "name": "Aaron T",
+        "email": "aaron.troncoso@yale.edu"
+      },
+      {
+        "name": "Monico D",
+        "email": "monica.dileo@yale.edu"
+      },
+      {
+        "name": "Jason C",
+        "email": "jason.campbell@yale.edu"
+      }
+      ],
+      "blurb": "<p>Just before the Civil War, an odd vagabond dressed head-to-toe in leather appeared out of nowhere and started walking the same 360-mile circuit for almost 30 years. In all his travels he never engaged in conversation with anyone beyond monosyllabic phrases like \"Eat\" or \"Yes,\" nor did he ever stay inside, always choosing to spend the nights and winters in the great outdoors. One of his stops on his route was the Old Leatherman Cave, right here in Watertown, CT, where we will be hiking this weekend.</p><p>In addition to there being a really cool cave where we'll hike to, there's also a beautiful lookout at the top (a place to have a picnic) where we can take in the last of the fall foliage and rolling Connecticut hills. The trail itself is a moderate 4 mile (total) out and back along the Mattatuck trail, and no experience is fine! There is a little bit of rock scrambling involved.</p><p>It will probably take us about 2 hours, maybe a bit longer to be safe, just allowing for time to hang out at the top and taking the pace easy, and is about 45 minutes away.</p>",
+      "image_url": "http://i.imgur.com/CH05uTn.jpg"
+    }
+
+
+  ],
+  "signoff": "Thanksgiving break... T minus 3 weeks",
+  "nickname": "Tingly"
+}

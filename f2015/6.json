@@ -1,0 +1,90 @@
+{
+  "n": 6,
+  "subject": "This Week in YO!",
+  "interlude": "<p>Hey YO Members! Interested in showing your YO pride? Interested in showing your YO pride? Order a Yale Outdoors Nalgene by filling out this <a href='http://goo.gl/forms/0KabUCFyZy'>form</a> by <b>Saturday October 17th.</b> Nalgenes will cost approximately $10-15 each -- the exact price will be announced once we place the order.</p>",
+  "quote": "I don't fish with a whole fleet or control the sea with a massive breakwater...I'm not feared. My house is safe without weapons. And from small things there comes a great quietness. You can have vast power if you can manage without power.",
+  "author": "Seneca, <i>Thyestes</i>",
+  "cover": {
+    "image_url": "https://i.imgur.com/MYvljfR.jpg",
+    "subtitle": "ZION"
+  },
+  "trips": [
+    {
+      "title": "Friday Movie Night",
+      "signup_link": "http://goo.gl/forms/jKSTFJW97B",
+      "leaders": [
+        { 
+          "name": "Sarah Gross",
+          "email": "sarah.gross@yale.edu"
+        }
+      ],
+      "date": "10-16",
+      "blurb": "This Friday at 7:30 p.m. we will be gathering in the YO House backyard (weather permitting) and snuggling up in YO's extra-warm sleeping bags as we watch Ride the Divide, an award-winning feature film about the world's toughest mountain bike race, which traverses over 2700 miles along the Continental Divide in the Rocky Mountains. The film weaves the story of three characters' experiences with immense mountain beauty and small-town culture as they attempt to pedal from Banff, Canada to a small, dusty crossing on the Mexican border. The YO House is located at 229 Dwight Street, and if you sign up you'll get a more detailed email about how to get there.",
+      "image_url": "http://i.imgur.com/aksjNZj.jpg"
+    },
+    { 
+      "title": "AT Day of Service",
+      "signup_link": "http://goo.gl/forms/KiO7DEH6Ub",
+      "leaders": [
+        {
+          "name": "Elizabeth Karron",
+          "email": "elizabeth.karron@yale.edu"
+        }
+      ],
+      "date": "10-17, 8a-5p",
+      "blurb": "October 17 is Appalachian Trail Day in Connecticut! To celebrate, the Appalachian Trail Conservancy, a group devoted to protecting and maintaining the AT, will be running huge hiking and service events in the beautiful Macedonia Brook State Park near Kent, CT. Come join YO in participating in a special all-day Boundary Maintenance Workshop, in which we will learn about everything from how the corridor is managed, to how to read and interpret land deeds. After the boundary workshop, we'll go to a giant BBQ. Signups close on <b>Wednesday at 6pm</b>!",
+      "image_url": "http://i.imgur.com/0rh4BW6.jpg"
+    },
+    {
+      "title": "FallYO: Backpacking Through the Heart of the Berkshire Hills - An Autumn Delight",
+      "signup_link": "https://docs.google.com/a/yale.edu/forms/d/10MRLoNgbAQHHm6vP4uBedpkUg04ZyVdzD10yFdZR0fM/viewform",
+      "leaders": [
+      {
+        "name": "Sarah Gross",
+        "email": "sarah.gross@yale.edu"
+      },
+      {
+        "name": "Rafi Bildner",
+        "email": "rafi.bildner@yale.edu"
+      }
+      ],
+      "date": "10-20 - 10-24",
+      "blurb": "Spend the first few days of fall break backpacking through a beautiful stretch of the Massachusetts section of the Appalachian Trail! We'll be leaving campus Tuesday afternoon as early as possible given folk's class schedules and returning to New Haven by Friday afternoon. Our trip will start near Becket and we'll go south to Great Barrington. In between we'll hike through the heart and soul of the Berks, including the Upper and Lower Goose Ponds of Lee and Beartown State Forest in Monterey. We'll plan to hike roughly 20 miles in two days and end early Friday in the vibrant town of Great Barrington with a delicious meal at Martin's Restaurant, one of the best breakfasts in the Berkshires. Maybe we'll even snag some apple cider donuts at Windy Hill Orchard if there's time. Plan for beautiful fall foliage but prepare for almost winter camping conditions with temperatures potentially dropping into the low 30's. Given the need to drop cars since this isn't a loop, spaces are limited and preference will be given to those with cars. Previous backpacking experience is a plus, given the amount of miles we are covering!",
+      "image_url": "http://1.bp.blogspot.com/-u8B--RYfcxE/VC2MUl4pzcI/AAAAAAAABSY/uLuMfCLmOsg/s1600/UpperGoose2.jpg"
+      },
+    {
+      "title": "FallYO: Extra-green Saugatuck Reservoir Sunrise-n-Eggs Run",
+      "signup_link": "http://goo.gl/forms/QXRjzcbwFq",
+      "leaders": [
+      {
+        "name": "Marcus Russi",
+        "email": "marcus.russi@yale.edu"
+      },
+      {
+        "name": "Jack Roth",
+        "email": "jack.roth@yale.edu"
+      }
+      ],
+      "date": "10-25 6a | $7",
+      "image_url": "http://i.imgur.com/vbAqPbQ.jpg",
+      "blurb": "Cap your October break with a brisk trail run through the Aspetuck Land Trust's Trout Brook Valley Preserve – some of the best-preserved land in the state, adorned in spectacular fall color, with the nippy, clarifying temperatures of a late October morning.  We'll leave campus at 6am sharp in order to catch the sunrise.  The run will be somewhere between 9-13mi and will be most appropriate if you typically run 7:00-8:30min/mi pace on the road.  We'll conclude with an egg breakfast of unfathomable proportions served on the shore of the Saugatuck Reservoir (vegan options available).  Don't miss this take on what every New England runner's autumn morning should look like!  Back by 11am, with our cars' emissions ameliorated by purchasing a small carbon offset."
+    },
+    {
+      "title": "Skydiving!",
+      "signup_link": "http://goo.gl/forms/eL3DQHL5ZC",
+      "leaders": [
+        {
+          "name": "Sarah Rose",
+          "email": "sarah.rose@yale.edu"
+        }
+      ],
+      "date": "10-30 | $200",
+      "blurb": "Have you ever wanted to experience the total freedom of jumping out of a plane? Have you dreamed of falling at 120mph with the wind screaming past your body? Have you fantasized of floating through clouds? Are you addicted to the addictive? If any of this sounds like you, then come sky dive with Yale Outdoors at Skydive Danielson. Make friends, and have the experience of a lifetime! Sign up now and reserve your spot!",
+      "image_url": "http://i.imgur.com/sgvRIOv.jpg"
+    }
+
+  ],
+
+  "signoff": "Good luck on your midterms!",
+  "nickname": "Trusty"
+}
