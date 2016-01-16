@@ -1,0 +1,65 @@
+<subject>
+[YO] YO Workday 11-7!
+</subject>
+<container>
+  <header />
+<row>
+  <img class='wide' src='http://i.imgur.com/cFIB3mG.jpg' width='580' height='435' title='Michigan'>
+  </row>
+
+    <trip>
+      
+      <trip-title-lg>
+        New Haven Land Trust Workday
+      </trip-title>
+      <signup-lg>
+        http://goo.gl/forms/dXvfxBWVOB
+      </signup>
+      <trip-info-xlg>
+        
+          <leader-email>
+            michael.lebwohl@yale.edu
+          </leader-email>
+          <leader-name>
+            Michael Lebwohl
+          </leader-name>
+          
+            and
+          
+        
+          <leader-email>
+            brian.beitler@yale.edu
+          </leader-email>
+          <leader-name>
+            Brian Beitler
+          </leader-name>
+          
+        
+        <tdate>
+          11-7, 8-10a | $0
+        </tdate>
+      </trip-info>
+      <row>
+      
+        <img class='trip' height='200' align='left' src="http://accessventures.org/wp-content/uploads/2015/07/GROCE-FAMILY-FARM-2.jpg" />
+      
+      <br />
+
+      <p>
+        What better way to spend your Saturday morning than outside with your hands in the dirt, working for a good cause? Join YO to work with the New Haven Land Trust this Saturday to help build infrastructure for one of their many urban gardens. We'll be building raised beds, filling them with soil, and spreading wood chips at Winchester Garden, located at 86 Winchester Street. Biking will be the mode of transport to and from
+      </p>
+      </row>
+    </trip>
+  
+  <footer>
+    <signoff>
+      Peace
+    </signoff>
+    <signature>
+    Sylvan 'Tingly Tortoise' Zheng
+    </signature>
+    <animal>
+      <img width=80 height=80 src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/turtle.png' />
+    </animal>
+  </footer>
+</container>

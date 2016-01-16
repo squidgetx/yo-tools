@@ -1,0 +1,50 @@
+{
+  "n": 11,
+  "subject": "This Week in YO!",
+  "interlude": "<p>Hey YO Members! Interested in showing your YO pride? Interested in showing your YO pride? Order a Yale Outdoors Nalgene by filling out this <a href='http://goo.gl/forms/0KabUCFyZy'>form</a> by <b>Saturday December 12th. </b> Nalgenes will cost approximately $10-15 each -- the exact price will be announced once we place the order.<br><img src='http://i.imgur.com/KSNL9ah.jpg' /></p>",
+  "quote": "First travel, then struggle, finally calm",
+  "author": "A Shivling Yogi",
+  "cover": {
+    "image_url": "https://farm1.staticflickr.com/694/23014318539_8dc470d9c3_b.jpg",
+    "subtitle": "Yosemite Valley"
+  },
+  "trips": [
+{
+      "title": "Sleeping Giant Hike",
+      "signup_link": "http://goo.gl/forms/Y7TdWsIH2S",
+      "leaders": [
+        {
+          "name": "Sarah Gross",
+          "email": "sarah.gross@yale.edu"
+        },
+        {
+          "name": "Katie Harmer",
+          "email": "clharmer8@gmail.com"
+        }
+      ],
+      "date": "12-5 | $TBD",
+      "blurb": "Join us this Saturday, December 5 for a hike at Sleeping Giant State Park. The sunny and relatively warm forecast on Saturday makes it the perfect day to get outside. Timing is tentative, but we think we'll leave around 11:30am from Phelp's gate and return by 3pm (we will email to confirm). The park is a 20 minute drive away from campus. If no cars are available the trip might cost up to $8 for zip cars. ",
+      "image_url": "https://s3.amazonaws.com/rapgenius/5738-Snorlax_15771_20070714111046.jpg"
+    },
+
+  {
+      "title": "Wilderness First Responder Training",
+      "signup_link": "http://goo.gl/forms/dZ7RnQpA03",
+      "leaders": [
+        {
+          "name": "Aaron Troncoso",
+          "email": "aaron.troncoso@yale.edu"
+        },
+        {
+          "name": "Marcus Russi",
+          "email": "marcus.russi@yale.edu"
+        }
+      ],
+      "blurb": "Want to know more than just the basics of wilderness medicine? This winter’s Wilderness First Responder course (WFR) hosted by Yale Outdoors and conducted by SOLO will go beyond elementary first aid skills and give you a wide variety of techniques and tools for staying safe in the backcountry.  The course will be held on Yale's campus, and if you are a Yale undergraduate, we will provide you with housing if you lack it. This is a wonderful opportunity to spend the last bit of winter break learning valuable skills and hanging around fellow outdoorsy people!</p><p>More details on pricing to come, but indicate your interest by signing up now! The course will be subsidized for Yale students, and will be significantly cheaper than the market rate for WFR courses. Limited scholarships are available based on demonstrated need.",
+      "date": "1-9 - 1-16 | $550",
+      "image_url": "http://i.imgur.com/hh26t5X.jpg"
+    }
+      ],
+  "signoff": "stay chill",
+  "nickname": "Tree-Hugging"
+}

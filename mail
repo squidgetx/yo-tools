@@ -703,7 +703,7 @@
       }
     </style>
 <style>.container {
-  background-color: #FFFAF2; }
+  background-color: #F2FAFF; }
 
 h1, h2, h3, h4, h5, h6 {
   padding-left: 10px;
@@ -716,7 +716,7 @@ a.email {
   text-decoration: underline; }
 
 tr.trip-head {
-  background-color: #2f0505; }
+  background-color: #05052b; }
 
 td.signup {
   background-color: white; }
@@ -778,7 +778,7 @@ p.date {
   margin: 0; }
 
 .header {
-  background-color: #340000; }
+  background-color: #000030; }
 
 p.caption {
   text-align: right;
@@ -788,18 +788,18 @@ p.subtitle {
   color: #EEEEEE;
   font-size: 13pt;
   text-align: right;
-  background-color: #2f0505;
+  background-color: #05052b;
   padding-bottom: 0.5em; }
 
 p.tdate {
   text-align: right;
   padding-bottom: 0.5em;
   color: #EEEEEE;
-  background-color: #340000;
+  background-color: #000030;
   font-size: 13pt; }
 
 .interlude {
-  background-color: #efe3cf; }
+  background-color: #cfe3ef; }
 
 p.interlude {
   font-weight: 100;
@@ -809,14 +809,14 @@ p.interlude {
 .quoteback {
   font-size: 13pt;
   font-weight: 400;
-  background-color: #fff0d9; }
+  background-color: #d9f0ff; }
 
 .content {
-  background-color: #fff8ed;
+  background-color: #edf8ff;
   text-align: justify; }
 
 tr.signoff {
-  background-color: #340000; }
+  background-color: #000030; }
 
 p.signoff {
   color: #EEEEEE; }
@@ -831,19 +831,397 @@ p.signoff {
 
 /*# sourceMappingURL=style.css.map */
 </style></head><body><table class='body'><tr><td class='center' align='center' valign='top'><center><table class='container'><tr><td>
-<br />
-<br />
-<br />
-<br />
-<br />
-<center>
-<a href='https://squidgetx.github.io/yo-tools/acceptance-f2015/index.html'><i>Here comes the sun...</i></a>
-</center>
-<br />
-<br />
-<br />
-<br />
-<br />
-</td></tr></table>
+<table class='row'><tr class='header'><td class='wrapper'><table class='eight columns'><tr><td><img width='380px' height='64px' src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/logo_1024_alpha_invert.png' /></td><td class='expander'></td></tr></table> </td> <td class='wrapper last'><table class='four columns'></table></td></tr></table>
+<table class='row'><tr><td class='wrapper offset-by-seven last'><table class='five columns'><tr><td><p class='inside subtitle'>
+bulletin #12 | 2015-12-10
+</p></td> <td class='expander'></td></tr></table></td></tr></table>
+<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>
+<img class='wide' src='https://i.imgur.com/imBhdT7.jpg' width='580' height='384' title='New Hampshire'>
+</td> <td class='expander'></td></tr></table></td></tr></table>
 
+<table class='row'><tr><td class='wrapper last'><table class='nine columns'><tr class = 'quoteback'><td class='text-pad'><br />
+<p class='quoteback'><i>"
+But risks must be taken because the greatest hazard in life is to risk nothing. The person who risks nothing, does nothing, has nothing, is nothing. He may avoid suffering and sorrow, but he cannot learn, feel, change, grow or live. Chained by his servitude he is a slave who has forfeited all freedom. Only a person who risks is free. The pessimist complains about the wind; the optimist expects it to change; and the realist adjusts the sails.
+"</i></p>
+<p class='quoteback'>&nbsp;&nbsp;&nbsp;&nbsp;- 
+William Arthur Ward
+</p>
+</td> <td class='expander'></td></tr></table></td></tr></table>
+<table class='row'><tr><td class='wrapper offset-by-four last'><table class='eight columns'><tr><td><p class='inside interlude'>
+<p>Hey YO Members! Interested in showing your YO pride? Interested in showing your YO pride? Order a Yale Outdoors Nalgene by filling out this <a href='http://goo.gl/forms/0KabUCFyZy'>form</a> by <b>Saturday December 19th. </b> Nalgenes will cost approximately $10-15 each -- the exact price will be announced once we place the order.<br><img src='http://i.imgur.com/KSNL9ah.jpg' /></p>
+</p></td> <td class='expander'></td></tr></table></td></tr></table>
+
+
+
+
+<table class='row'>
+                    <tr class='trip-head'>
+                      <td class='wrapper'>
+                        <table class='eight columns trip2'>
+                          <tr class='ttitle'>
+                            <td>
+                              <p class='ttitle'>
+Quinnipiac River Walk
+</p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+<td class='wrapper'>
+                        <table class='three columns'>
+                          <tr>
+                            <td class='nobottom'>
+                              <table class='button'>
+                                <tr>
+                                  <td>
+                                    <a href='
+http://goo.gl/forms/512kPABD8q
+'><span class='btn'>Sign Up</span>
+                                    </a>
+                                  </td>
+                                </tr>
+                              </table>         
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td class='wrapper last'>
+                        <table class='one column'>
+                        </table>
+                        </td>
+                    </tr>
+                  </table>
+<table class='row'>
+                    <tr>
+                      <td class='wrapper offset-by-one last'>
+                        <table class='eleven columns'>
+                          <tr>
+                            <td>
+                              <p class='inside tdate'>
+
+<a class='email' href='mailto:
+theodore.kuhn@yale.edu
+
+'>
+Theo Kuhn
+</a>
+
+and
+
+
+<a class='email' href='mailto:
+alexandra.golden@yale.edu
+
+'>
+Ali Golden
+</a>
+
+
+| 
+12-12, 10:30a | $0
+</tdate>
+</p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>
+
+<img class='trip' height='200' align='left' src="http://i.imgur.com/4VWmGEX.jpg" />
+
+<br />
+
+<p>
+Come on a ramble through the brambles of Quinnipiac River State Park. This long strip of wooded floodplain follows the meandering river and is rarely visited or maintained, making it one of the wilder spots in the New Haven area. Unruly plant life makes it nearly impassable in the summer, so this warm December Saturday will be the perfect time to explore. Bring solid boots and a sense of adventure! We'll meet up on York Street outside of Davenport and be back on campus by 5pm at the latest.
+</p>
+</td> <td class='expander'></td></tr></table></td></tr></table>
+
+
+
+
+<table class='row'>
+                    <tr class='trip-head'>
+                      <td class='wrapper'>
+                        <table class='eight columns trip2'>
+                          <tr class='ttitle'>
+                            <td>
+                              <p class='ttitle-lg'>
+Reading the Forested Landscape
+</p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+<td class='wrapper'>
+                        <table class='three columns'>
+                          <tr>
+                            <td class='nobottom'>
+                              <br />
+                              <table class='button'>
+                                <tr>
+                                  <td>
+                                    <a href='
+http://goo.gl/forms/0SzNHVsUtU
+'><span class='btn'>Sign Up</span>
+                                    </a>
+                                  </td>
+                                </tr>
+                              </table>         
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td class='wrapper last'>
+                        <table class='one column'>
+                        </table>
+                        </td>
+                    </tr>
+                  </table>
+<table class='row'>
+                    <tr>
+                      <td class='wrapper last'>
+                        <table class='twelve columns'>
+                          <tr>
+                            <td>
+                              <p class='inside tdate'>
+
+<a class='email' href='mailto:
+rafi.bildner@yale.edu
+
+'>
+Rafi Bildner
+</a>
+
+,
+
+
+<a class='email' href='mailto:
+max.farbman@yale.edu
+
+'>
+Max Farbman
+</a>
+
+and
+
+
+<a class='email' href='mailto:
+ariela.schear@yale.edu
+
+'>
+Ariela Schear
+</a>
+
+
+| 
+12-15, 2pm | $2-3
+</tdate>
+</p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>
+
+<img class='trip' height='200' align='left' src="http://i.imgur.com/hl8piPo.jpg" />
+
+<br />
+
+<p>
+In need of some good ole' nature therapy to cure the finals blues? Look no further - this is the perfect trip for you! This trip has two primary objectives: first, we'll explore East Rock, paying particular attention to the natural clues that the forest provides, in order to "read the forested landscape." Rafi, Max and Ariela will guide you along as we discover tricks and tips to uncover the history of the landscapes we walk in. From tree and wildlife identification, to examining the forest floor, all aspects of the natural world will be discussed! THEN, after we get some good walking in, we'll take out the camp stove and bake some delicious cinnamon rolls (or a treat of our liking), using some innovative backcountry baking techniques. We'll end our time together by eating delicious baked goods and drinking tea as we enjoy the wilds of New Haven. Trip cost is a positive attitude and a few bucks to cover the baking ingredients.
+</p>
+</td> <td class='expander'></td></tr></table></td></tr></table>
+
+
+
+
+<table class='row'>
+                    <tr class='trip-head'>
+                      <td class='wrapper'>
+                        <table class='eight columns trip2'>
+                          <tr class='ttitle'>
+                            <td>
+                              <p class='ttitle'>
+East Rock Sunset Hike
+</p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+<td class='wrapper'>
+                        <table class='three columns'>
+                          <tr>
+                            <td class='nobottom'>
+                              <table class='button'>
+                                <tr>
+                                  <td>
+                                    <a href='
+http://goo.gl/forms/BTruFKTYnX
+'><span class='btn'>Sign Up</span>
+                                    </a>
+                                  </td>
+                                </tr>
+                              </table>         
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td class='wrapper last'>
+                        <table class='one column'>
+                        </table>
+                        </td>
+                    </tr>
+                  </table>
+<table class='row'>
+                    <tr>
+                      <td class='wrapper offset-by-one last'>
+                        <table class='eleven columns'>
+                          <tr>
+                            <td>
+                              <p class='inside tdate'>
+
+<a class='email' href='mailto:
+olivia.burton@yale.edu
+
+'>
+Olivia Burton
+</a>
+
+and
+
+
+<a class='email' href='mailto:
+clharmer8@gmail.com
+
+'>
+Katie Harmer
+</a>
+
+
+| 
+12-5 | $0
+</tdate>
+</p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>
+
+<img class='trip' height='200' align='left' src="https://i.vimeocdn.com/video/443799352_640.jpg" />
+
+<br />
+
+<p>
+Take a break from bass and come watch the sunset from the top of east rock! We'll leave from phelps gate at 3:15 and get back around 5:30. Bring your friends! No experience required, just walking shoes and some water.
+</p>
+</td> <td class='expander'></td></tr></table></td></tr></table>
+
+
+
+
+<table class='row'>
+                    <tr class='trip-head'>
+                      <td class='wrapper'>
+                        <table class='eight columns trip2'>
+                          <tr class='ttitle'>
+                            <td>
+                              <p class='ttitle-lg'>
+Wilderness First Responder Training
+</p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+<td class='wrapper'>
+                        <table class='three columns'>
+                          <tr>
+                            <td class='nobottom'>
+                              <br />
+                              <table class='button'>
+                                <tr>
+                                  <td>
+                                    <a href='
+http://goo.gl/forms/dZ7RnQpA03
+'><span class='btn'>Sign Up</span>
+                                    </a>
+                                  </td>
+                                </tr>
+                              </table>         
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td class='wrapper last'>
+                        <table class='one column'>
+                        </table>
+                        </td>
+                    </tr>
+                  </table>
+<table class='row'>
+                    <tr>
+                      <td class='wrapper offset-by-one last'>
+                        <table class='eleven columns'>
+                          <tr>
+                            <td>
+                              <p class='inside tdate'>
+
+<a class='email' href='mailto:
+aaron.troncoso@yale.edu
+
+'>
+Aaron Troncoso
+</a>
+
+and
+
+
+<a class='email' href='mailto:
+marcus.russi@yale.edu
+
+'>
+Marcus Russi
+</a>
+
+
+| 
+1-9 - 1-16 | $550
+</tdate>
+</p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+<table class='row'><tr><td class='wrapper last'><table class='twelve columns'><tr><td>
+
+<img class='trip' height='200' align='left' src="http://i.imgur.com/hh26t5X.jpg" />
+
+<br />
+
+<p>
+Want to know more than just the basics of wilderness medicine? This winter’s Wilderness First Responder course (WFR) hosted by Yale Outdoors and conducted by SOLO will go beyond elementary first aid skills and give you a wide variety of techniques and tools for staying safe in the backcountry.  The course will be held on Yale's campus, and if you are a Yale undergraduate, we will provide you with housing if you lack it. This is a wonderful opportunity to spend the last bit of winter break learning valuable skills and hanging around fellow outdoorsy people!</p><p>More details on pricing to come, but indicate your interest by signing up now! The course will be subsidized for Yale students, and will be significantly cheaper than the market rate for WFR courses. Limited scholarships are available based on demonstrated need.
+</p>
+</td> <td class='expander'></td></tr></table></td></tr></table>
+
+
+<table class='row'><tr class='signoff'><td class='wrapper'><table class='ten columns'><tr><td class='text-pad'><br />
+<p class='signoff'>
+Peace, friends
+</p>
+<p class='signoff'>&nbsp;&nbsp;&nbsp; - 
+Sylvan 'Tingly Tortoise' Zheng
+</p></td></tr></table></td>
+<td class='wrapper last'><table class='two columns'><tr><td>
+<img width=80 height=80 src='https://raw.githubusercontent.com/squidgetx/yo-tools/master/images/turtle.png' />
+</td></tr></table></td>
+</td> <td class='expander'></td></tr></table></td></tr></table>
+</td></tr></table>
 </center></td></tr></table></body></html>

@@ -1,0 +1,88 @@
+{
+  "n": 12,
+  "subject": "This Week in YO!",
+  "interlude": "<p>Hey YO Members! Interested in showing your YO pride? Interested in showing your YO pride? Order a Yale Outdoors Nalgene by filling out this <a href='http://goo.gl/forms/0KabUCFyZy'>form</a> by <b>Saturday December 19th. </b> Nalgenes will cost approximately $10-15 each -- the exact price will be announced once we place the order.<br><img src='http://i.imgur.com/KSNL9ah.jpg' /></p>",
+  "quote": "But risks must be taken because the greatest hazard in life is to risk nothing. The person who risks nothing, does nothing, has nothing, is nothing. He may avoid suffering and sorrow, but he cannot learn, feel, change, grow or live. Chained by his servitude he is a slave who has forfeited all freedom. Only a person who risks is free. The pessimist complains about the wind; the optimist expects it to change; and the realist adjusts the sails.",
+  "author": "William Arthur Ward",
+  "cover": {
+    "image_url": "https://i.imgur.com/imBhdT7.jpg",
+    "subtitle": "New Hampshire"
+  },
+  "trips": [
+  {
+    "title": "Quinnipiac River Walk",
+    "signup_link": "http://goo.gl/forms/512kPABD8q",
+    "leaders": [
+      {
+        "name": "Theo Kuhn",
+        "email": "theodore.kuhn@yale.edu"
+      },
+      {
+        "name": "Ali Golden",
+        "email": "alexandra.golden@yale.edu"
+      }
+    ],
+    "date": "12-12, 10:30a | $0",
+    "blurb": "Come on a ramble through the brambles of Quinnipiac River State Park. This long strip of wooded floodplain follows the meandering river and is rarely visited or maintained, making it one of the wilder spots in the New Haven area. Unruly plant life makes it nearly impassable in the summer, so this warm December Saturday will be the perfect time to explore. Bring solid boots and a sense of adventure! We'll meet up on York Street outside of Davenport and be back on campus by 5pm at the latest. ",
+    "image_url": "http://i.imgur.com/4VWmGEX.jpg"
+  },
+    {
+      "title": "Reading the Forested Landscape",
+      "signup_link": "http://goo.gl/forms/0SzNHVsUtU",
+      "leaders": [
+        {
+          "name": "Rafi Bildner",
+          "email": "rafi.bildner@yale.edu"
+        },
+        {
+          "name": "Max Farbman",
+          "email": "max.farbman@yale.edu"
+        },
+        {
+          "name": "Ariela Schear",
+          "email": "ariela.schear@yale.edu"
+        }
+      ],
+      "date": "12-15, 2pm | $2-3",
+      "blurb": "In need of some good ole' nature therapy to cure the finals blues? Look no further - this is the perfect trip for you! This trip has two primary objectives: first, we'll explore East Rock, paying particular attention to the natural clues that the forest provides, in order to \"read the forested landscape.\" Rafi, Max and Ariela will guide you along as we discover tricks and tips to uncover the history of the landscapes we walk in. From tree and wildlife identification, to examining the forest floor, all aspects of the natural world will be discussed! THEN, after we get some good walking in, we'll take out the camp stove and bake some delicious cinnamon rolls (or a treat of our liking), using some innovative backcountry baking techniques. We'll end our time together by eating delicious baked goods and drinking tea as we enjoy the wilds of New Haven. Trip cost is a positive attitude and a few bucks to cover the baking ingredients.",
+      "image_url": "http://i.imgur.com/hl8piPo.jpg"
+    },
+    {
+      "title": "East Rock Sunset Hike",
+      "signup_link": "http://goo.gl/forms/BTruFKTYnX",
+      "leaders": [
+        {
+          "name": "Olivia Burton",
+          "email": "olivia.burton@yale.edu"
+        },
+        {
+          "name": "Katie Harmer",
+          "email": "clharmer8@gmail.com"
+        }
+      ],
+      "date": "12-5 | $0",
+      "blurb": "Take a break from bass and come watch the sunset from the top of east rock! We'll leave from phelps gate at 3:15 and get back around 5:30. Bring your friends! No experience required, just walking shoes and some water.",
+      "image_url": "https://i.vimeocdn.com/video/443799352_640.jpg"
+    },
+
+  {
+      "title": "Wilderness First Responder Training",
+      "signup_link": "http://goo.gl/forms/dZ7RnQpA03",
+      "leaders": [
+        {
+          "name": "Aaron Troncoso",
+          "email": "aaron.troncoso@yale.edu"
+        },
+        {
+          "name": "Marcus Russi",
+          "email": "marcus.russi@yale.edu"
+        }
+      ],
+      "blurb": "Want to know more than just the basics of wilderness medicine? This winter’s Wilderness First Responder course (WFR) hosted by Yale Outdoors and conducted by SOLO will go beyond elementary first aid skills and give you a wide variety of techniques and tools for staying safe in the backcountry.  The course will be held on Yale's campus, and if you are a Yale undergraduate, we will provide you with housing if you lack it. This is a wonderful opportunity to spend the last bit of winter break learning valuable skills and hanging around fellow outdoorsy people!</p><p>More details on pricing to come, but indicate your interest by signing up now! The course will be subsidized for Yale students, and will be significantly cheaper than the market rate for WFR courses. Limited scholarships are available based on demonstrated need.",
+      "date": "1-9 - 1-16 | $550",
+      "image_url": "http://i.imgur.com/hh26t5X.jpg"
+    }
+      ],
+  "signoff": "Peace, friends",
+  "nickname": "Tingly"
+}
