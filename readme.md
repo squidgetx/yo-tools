@@ -30,5 +30,8 @@ You'll want to edit the `USERNAME` field in `bin/testmail.rb` and `bin/sendmail.
 
 *Templated Files* refer to HTML emails written using custom built HTML tags to help organize different parts of the email. Examples can be found in the `sp2015/` directory. `bin/builder.rb` contains all of the different tags and their 'translations' if you would like to modify them.
 
-You can also create emails using json, examples of these can be found in the `f2015` directory.
+You can also create emails using json, examples of these can be found in the `f2015` directory. The file `bin/read_json.rb` actually just takes the json and creates a templated file using ERB. You can modify this template in `templates/template.html.erb`
 
+#### Styling
+
+The styling of the email is by default set with style.scss.
