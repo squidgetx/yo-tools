@@ -2,34 +2,33 @@
 
 YO-tools is a repo of materials and scripts to assist me (and anyone really) in creating some slick HTML emails quickly and easily using a set of HTML extensions and Ruby scripts. The environment provides a few layouts that require a minimum level of knowledge of Ruby and HTML/CSS to use.
 
-####Setup
+#### Setup
 
 You'll need the following things to use this suite of tools
+
 ```
 bash
 ruby
 sass
-premailer (ruby gem)
-mail (ruby gem)
+bundler (ruby gem)
 ```
+
 This repo also packages a slightly modified version of Ink, an email templating framework.
 
-####Basic Use
-* `./testmail.sh < <file>` is a one-shot script that, when properly configured, converts the templated file <file> to HTML and plaintext and then sends a multipart email to a specified account.
-* `./sendmail.sh <file> <recipient email` does the same thing, only it also runs testmail and sleeps for 5 minutes before proceeding to send the message to the (presumably intended) recipient
+Run `bundle install` to install the remaining dependencies.
 
-####HTML Extensions + Building The Email
-I define several HTML "tags" for use in order to make the delivery of content as smooth as possible. They abstract out annoying code bits and clutter but also severely limit the flexibility you have outside of these custom built "directives". Many of the names are self explanatory
+##### Configuration
 
-All custom tags MUST reside on their own line, be followed by a line (or more) of content and be closed with a corresponding closing tag that also resides on its own line.
-* `<subject>` Defines the subject of the email
-* `<container` Container tag. You should start your email with this and close it with `</container>`
-* `<header>`
-* `<subtitle>`
-* `<quotebox>` Useful for creating a space to put a quotation
-* `<quote>`
-* `<quotee>`
-* `<row>` Creates a 12 column wide row with text padding.
-* `<footer>`
-* `<signoff>`
-* `<signature>`
+You'll want to edit the `USERNAME` field in `bin/testmail.rb` and `bin/sendmail.rb` to match the account you'll be using to send the emails and you'll want to create a file `secrets/password` which contains the plaintext password for the account.
+
+#### Basic Use
+* `./testmail.sh < <file>` converts the *templated file* `file` to HTML and plaintext and then sends a multipart email to the account you specified in the `USERNAME` field in `bin/testmail.rb`
+* `./sendmail.sh <address> <bcc> < <file>` sends the *templated file* `file` to `address` and BCCs to `bcc`.
+* `./testjsonmail.sh` and `./sendjsonmail.sh` behave similarly, except they take json files instead of templated HTML
+
+#### Email Structure
+
+*Templated Files* refer to HTML emails written using custom built HTML tags to help organize different parts of the email. Examples can be found in the `sp2015/` directory. `bin/builder.rb` contains all of the different tags and their 'translations' if you would like to modify them.
+
+You can also create emails using json, examples of these can be found in the `f2015` directory.
+

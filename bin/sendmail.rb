@@ -2,11 +2,12 @@
 require 'net/smtp'
 require 'mail'
 
+USERNAME = 'sylvan.zheng@yale.edu'
 
 options = { address: 'smtp.gmail.com',
             port: 587,
             domain: 'yale.edu',
-            user_name: 'sylvan.zheng@yale.edu',
+            user_name: USERNAME,
             password: File.read('secrets/password'),
             authentication: 'login',
             enable_starttl_auto: true}
@@ -16,7 +17,7 @@ Mail.defaults do
 end
 
 mail = Mail.new do
-  from 'sylvan.zheng@yale.edu'
+  from USERNAME
   to ARGV[0]
   bcc ARGV[1]
   subject File.read('subject')

@@ -1,6 +1,6 @@
 #!/bin/bash
 set -x
 sass style.scss:style.css;
-bin/builder.rb < $1 | bin/process.rb;
-bin/sendmail.rb $2 $3;
+bin/builder.rb | bin/process.rb;
+bin/sendmail.rb $1 $2;
 bin/cleanup.sh
